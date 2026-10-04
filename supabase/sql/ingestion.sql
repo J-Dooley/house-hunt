@@ -17,6 +17,10 @@ begin
    (source_id=j.source_id and provider_id=n->>'providerId') or canonical_key=n->>'canonicalKey'
    order by case when source_id=j.source_id and provider_id=n->>'providerId' then 0 else 1 end limit 1;
   pid:=coalesce(old.property_id,'discovered-'||md5(n->>'canonicalKey'));
+  -- Binary-status discovery must not replace a fresh verifier's result or provider identity.
+  -- Explicit negative observations still withhold the property, regardless of source.
+  if n->>'status'='unverified' and old.availability='active' and old.verified_at>now()-interval '30 hours'
+     and (select adapter from public.househunt_sources where id=j.source_id)='rentcast' then continue; end if;
   -- Store out-of-scope discoveries only as private observations, not new inventory entries.
   if old.property_id is null and n->>'region' is null then continue; end if;
   vstatus:=n->>'status';

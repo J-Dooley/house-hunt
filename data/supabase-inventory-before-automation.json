@@ -1,0 +1,278 @@
+[
+  {
+    "property_id": "14340-del-rosa-rd",
+    "details": {
+      "id": "14340-del-rosa-rd",
+      "due": "Verify water source, septic, road/access, insurance and actual drive times to groceries and medical care.",
+      "why": "A rare sub-$500K Central Coast-area site-built home on 2.5 fully fenced acres, with privacy but not extreme isolation.",
+      "facts": "$324,900 · PRICE · 2.5 · ACRES · 3 · BEDS · 2 · BATHS · 1,558 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.zillow.com/homedetails/14340-Del-Rosa-Rd-Santa-Margarita-CA-93453/15451312_zpid/",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=14340+Del+Rosa+Rd%2C+Santa+Margarita%2C+CA+93453",
+          "label": "Google Maps ↗"
+        }
+      ],
+      "place": "Santa Margarita, CA 93453",
+      "price": "$324,900",
+      "region": "San Luis Obispo County · On-grid",
+      "acreage": "2.5",
+      "address": "14340 Del Rosa Rd",
+      "fit_display": "58 fit",
+      "source_note": "Oct 4 review: Zillow advertises For Sale, $324,900, 2.5 acres, 3 bedrooms/2 bathrooms. Well, septic and connected electricity reported. Confirm well output and insurance.",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "last_verified": "2026-10-04"
+    },
+    "cover_photo": "https://photos.zillowstatic.com/fp/f37b3976362ab77a27004e329c5cf472-cc_ft_960.jpg",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "18650-janach-ct",
+    "details": {
+      "id": "18650-janach-ct",
+      "due": "High modeled wildfire exposure (Redfin First Street Fire Factor 8/10). Obtain actual insurer quotes and defensible-space requirements; verify solar ownership, well production, road maintenance and hospital drive time.",
+      "why": "2018 site-built home on relatively level acreage, with solar, well, septic and a two-car garage. Practical access toward Redding is promising, but actual hospital drive time needs verification.",
+      "facts": "$415,000 · PRICE · 4.35 · ACRES · 2 · BEDS · 2 · BATHS · 1,368 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.redfin.com/CA/Cottonwood/18650-Janach-Ct-96022/home/168676575",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=18650+Janach+Ct%2C+Cottonwood%2C+CA+96022",
+          "label": "Google Maps ↗"
+        },
+        {
+          "url": "https://www.landsearch.com/properties/18650-janach-ct-cottonwood-ca-96022/5594261",
+          "label": "LandSearch verification ↗"
+        }
+      ],
+      "place": "Cottonwood, CA 96022",
+      "price": "$415,000",
+      "region": "Tehama County · On-grid + solar / well",
+      "acreage": "4.35",
+      "address": "18650 Janach Ct",
+      "fit_display": "74 fit",
+      "source_note": "Oct 4 Redfin and LandSearch: For Sale $415,000, 4.35 acres, site-built 2018 single-story, 2 bed/2 bath, well, septic and solar. High modeled wildfire exposure (8/10 First Street Fire Factor).",
+      "status_label": "FOR SALE · OCT 4 VERIFIED",
+      "last_verified": "2026-10-04"
+    },
+    "cover_photo": "https://ssl.cdn-redfin.com/photo/334/bigphoto/507/26-5507_2.jpg",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "38570-rustic-ln",
+    "details": {
+      "id": "38570-rustic-ln",
+      "due": "Confirm well production and pool condition; check fire insurance and actual emergency department drive. Acreage is somewhat below a rural five-acre preference but clears the two-acre minimum.",
+      "why": "Site-built 1993 single-story home with gated access, a pool and four acres. Listing reports a replacement well pump in 2022 and new AC in 2025.",
+      "facts": "$410,000 · PRICE · 4.13 · ACRES · 3 · BEDS · 2 · BATHS · 1,488 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.zillow.com/homedetails/38570-Rustic-Ln-Squaw-Valley-CA-93675/18645459_zpid/",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=38570%20Rustic%20Ln%2C%20Squaw%20Valley%2C%20CA%2093675",
+          "label": "Google Maps ↗"
+        }
+      ],
+      "place": "Squaw Valley, CA 93675",
+      "price": "$410,000",
+      "region": "Fresno County · On-grid / well",
+      "acreage": "4.13",
+      "address": "38570 Rustic Ln",
+      "fit_display": "65 fit",
+      "source_note": "Oct 4 Zillow and Redfin: For Sale $410,000, 4.13 acres, 3 bed/2 bath, 1,488 sq ft, well pump replaced 2022; confirm wildfire-insurance premium.",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "last_verified": "2026-10-04"
+    },
+    "cover_photo": "https://photos.zillowstatic.com/fp/651c570818f146b6379e38753beeb7d7-cc_ft_960.jpg",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "4001-old-briceland-rd",
+    "details": {
+      "id": "4001-old-briceland-rd",
+      "due": "Off-grid systems, substantial slopes, road easements, winter access and much longer drive to a full hospital. Bonus rooms are not confirmed legal residences.",
+      "why": "1997 site-built home with creek, spring, gardens and updated solar, batteries, generator and extensive water storage; advertised 15 minutes to Garberville.",
+      "facts": "$349,000 · PRICE · 40 · ACRES · 2 · BEDS · 1 · BATHS · 1,150 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.zillow.com/homedetails/4001-Old-Briceland-Rd-Garberville-CA-95542/2057014759_zpid/",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=4001%20Old%20Briceland%20Rd%2C%20Garberville%2C%20CA%2095542",
+          "label": "Google Maps ↗"
+        }
+      ],
+      "place": "Garberville, CA 95542",
+      "price": "$349,000",
+      "region": "Humboldt County · Off-grid",
+      "acreage": "40",
+      "address": "4001 Old Briceland Rd",
+      "fit_display": "62 fit",
+      "source_note": "October 4 check: Zillow identifies property as off market. Other listing status requires confirmation; excluded from active results pending resolution.",
+      "status_label": "HELD · STATUS CONFLICT"
+    },
+    "cover_photo": "https://photos.zillowstatic.com/fp/6f66a13f829304c3d934f48777ce2914-cc_ft_576.jpg",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "4340-blackhawk-dr",
+    "details": {
+      "id": "4340-blackhawk-dr",
+      "due": "Check which acreage is level, well yield, winter road, insurance and whether the outbuildings or studio have permits.",
+      "why": "Custom 2007 home on 12.29 wooded acres, with powered and plumbed outbuildings; listing says about 15 minutes to Willits and 25 to Ukiah.",
+      "facts": "$399,000 · PRICE · 12.29 · ACRES · 2 · BEDS · 2 · BATHS · 1,364 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.redfin.com/CA/Willits/4340-Blackhawk-Dr-95490/home/120111476",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=4340%20Blackhawk%20Dr%2C%20Willits%2C%20CA%2095490",
+          "label": "Google Maps ↗"
+        }
+      ],
+      "place": "Willits, CA 95490",
+      "price": "$399,000",
+      "region": "Mendocino County · Utilities to confirm",
+      "acreage": "12.29",
+      "address": "4340 Blackhawk Dr",
+      "fit_display": "74 fit",
+      "source_note": "Oct 4 exact listing page checked. Redfin + Realtor + LandSearch; for sale, checked Oct 3.",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "last_verified": "2026-10-04"
+    },
+    "cover_photo": "https://ap.rdcpix.com/7be60cdd383a5ef083647aa6d8ef2bb0l-m2191941156rd-w960_h720.webp",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "486-rich-gulch-rd",
+    "details": {
+      "id": "486-rich-gulch-rd",
+      "due": "MAJOR RED FLAG: Listing says unusable plumbing and much of the interior electrical were removed; check contractor rehab estimates, permits, habitability, lender eligibility, fire insurance, spring source and potable-water rights. Do not budget this as a habitable 3/2.",
+      "why": "Large acreage and a potential spring-fed pond, but the house is stripped to the studs. Not a normal move-in home or light fixer.",
+      "facts": "$379,500 · PRICE · 20.72 · ACRES · 3 · BEDS · 2 · BATHS · 2,000 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.zillow.com/homedetails/486-Rich-Gulch-Rd-Mokelumne-Hill-CA-95245/300736333_zpid/",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=486+Rich+Gulch+Rd%2C+Mokelumne+Hill%2C+CA+95245",
+          "label": "Google Maps ↗"
+        }
+      ],
+      "place": "Mokelumne Hill, CA 95245",
+      "price": "$379,500",
+      "region": "Calaveras County · Utilities to confirm",
+      "acreage": "20.72",
+      "address": "486 Rich Gulch Rd",
+      "fit_display": "34 fit",
+      "source_note": "Oct 4 review: Redfin advertises For Sale at $379,500, 20.72 acres, 3 bedrooms/2 bathrooms. Confirm unfinished deck work, permits, insurance and access.",
+      "status_label": "HELD · HOUSE GUTTED / NOT HABITABLE"
+    },
+    "cover_photo": null,
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "4965-moss-creek-ln",
+    "details": {
+      "id": "4965-moss-creek-ln",
+      "due": "Zillow and LandSearch display $499K; Realtor has an outdated $540K page. Verify price, water, septic, utility service, fire insurance and medical drive time before travel.",
+      "why": "Site-built house with around 9.26 acres described as usable and a 2,400 sq ft workshop. Valuable workspace and acreage just under the home-price ceiling.",
+      "facts": "$499,000 · PRICE · 9.26 · ACRES · 3 · BEDS · 2 · BATHS · 1,650 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.zillow.com/homedetails/4965-Moss-Creek-Ln-Mariposa-CA-95338/70398891_zpid/",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=4965+Moss+Creek+Ln%2C+Mariposa%2C+CA+95338",
+          "label": "Google Maps ↗"
+        },
+        {
+          "url": "https://www.landsearch.com/properties/4965-moss-creek-ln-mariposa-ca-95338/5471002",
+          "label": "LandSearch verification ↗"
+        }
+      ],
+      "place": "Mariposa, CA 95338",
+      "price": "$499,000",
+      "region": "Mariposa County · Utilities to confirm",
+      "acreage": "9.26",
+      "address": "4965 Moss Creek Ln",
+      "fit_display": "64 fit",
+      "source_note": "Oct 4 exact listing page checked. October 4 check: Zillow advertises for sale at $499,000 after September 3 price reduction.",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "last_verified": "2026-10-04"
+    },
+    "cover_photo": "https://ssl.cdn-redfin.com/photo/45/bigphoto/885/FR22151885_0.jpg",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "520-laguna-crk",
+    "details": {
+      "id": "520-laguna-crk",
+      "due": "Very long market time. Verify road rights/maintenance, solar/storage, water, septic, permits, wildfire insurance and winter access.",
+      "why": "Five acres and a full 2/2 residence under the cap in Santa Cruz County. Private-road setting and off-grid systems make this a serious mountain-property candidate.",
+      "facts": "$494,000 · PRICE · 5 · ACRES · 2 · BEDS · 2 · BATHS · 2,017 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.zillow.com/homedetails/520-Laguna-Crk-Los-Gatos-CA-95033/402472382_zpid/",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=520+Laguna+Crk%2C+Los+Gatos%2C+CA+95033",
+          "label": "Google Maps ↗"
+        }
+      ],
+      "place": "Los Gatos, CA 95033",
+      "price": "$494,000",
+      "region": "Santa Cruz County · Off-grid",
+      "acreage": "5",
+      "address": "520 Laguna Crk",
+      "fit_display": "57 fit",
+      "source_note": "Oct 4 cross-source difference: Zillow shows $494,000; Realtor/Redfin may still show $499,000. Both below cap. Verify latest price with listing agent and confirm active status before contacting.",
+      "status_label": "ACTIVE · OCT 4 PRICE CHECK",
+      "last_verified": "2026-10-04"
+    },
+    "cover_photo": "https://www.compass.com/m/42e52b2af7ef20a321a8c2f232b22b9a38707642_img_0_537e5/origin.webp",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  },
+  {
+    "property_id": "761-691-gratten-flat-rd",
+    "details": {
+      "id": "761-691-gratten-flat-rd",
+      "due": "Remote from hospital care; verify creek floodplain, ownership of both parcels, well/water rights, power, septic and whether sleeping cabin is habitable/permitted. Agent also describes a sleeping cabin. Confirm it is legal/permited before treating as a second dwelling.",
+      "why": "Mostly flat ten-acre creekside property with a primary cabin, swimming hole, garden and additional sleeping cabin.",
+      "facts": "$425,000 · PRICE · 10.06 · ACRES · 2 · BEDS · 1 · BATHS · 1,675 · SQ FT",
+      "links": [
+        {
+          "url": "https://www.zillow.com/homedetails/761-691-Gratten-Flat-Rd-Trinity-Center-CA-96091/462521693_zpid/",
+          "label": "Open exact listing ↗"
+        },
+        {
+          "url": "https://www.google.com/maps/search/?api=1&query=761%20%26%20691%20Gratten%20Flat%20Rd%2C%20Trinity%20Center%2C%20CA%2096091",
+          "label": "Google Maps ↗"
+        }
+      ],
+      "place": "Trinity Center, CA 96091",
+      "price": "$425,000",
+      "region": "Trinity County · Utilities to confirm",
+      "acreage": "10.06",
+      "address": "761 & 691 Gratten Flat Rd",
+      "fit_display": "61 fit",
+      "source_note": "Oct 4: Zillow advertises For Sale at $425,000 (MLS #2113015), 10.06 acres and a year-round creek. Realtor.com has older $499,000 data. Verify cabin permits, winter access and flood/insurance risk.",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "last_verified": "2026-10-04"
+    },
+    "cover_photo": "https://photos.zillowstatic.com/fp/33326552fd3c76c0d524813121c21784-cc_ft_960.jpg",
+    "last_edited": "2026-10-04 19:11:15.952785+00"
+  }
+]

@@ -10,10 +10,21 @@
 - Explicit geographic/rule configuration in config/search.json; provenance and unresolved geography edges documented there.
 - Provider assessment in DATA-SOURCES.md. No paid service activated.
 
-## Planned implementation checkpoints
+## Stage 2: committed, deployed and tested
 
-2. Durable Supabase queue, conservative status/criteria rules, evidence history, resumable provider adapters and tests.
-3. Existing-site integration, Central-time morning schedule, coverage receipts and end-to-end validation.
+- Durable Supabase queue, conservative status/criteria rules, evidence history, resumable provider adapters and 11 passing rule tests.
+- Atomic database page ingestion tested for status exclusion, preserved research, idempotent replay, lease rejection, request caps and client permissions. Fixtures rolled back.
+- Original 80 records seeded into the existing cumulative inventory; original database snapshot saved separately. Existing preference rows left unchanged.
+- Deployed authenticated worker tested via Vault-backed dispatch, HTTP 200.
+
+## Stage 3: site integration and schedule
+
+- Existing interface reads the live cumulative database and shows source/region receipts.
+- Daily 6 a.m. Central schedule enabled, daylight-saving aware; minute worker drains resumable jobs.
+- First run: 68 blocked county tasks, zero regions searched. No feed or credentials invented.
+- Historical/unverified properties remain in Saved archive. Active results require fresh explicit active status plus the qualification checks.
+- Browser automation download was unavailable in the execution environment; UI checked separately where available. Backend and JavaScript syntax tests passed.
+- Runbook and activation instructions: OPERATIONS.md.
 
 ## Activation dependency
 
