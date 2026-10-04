@@ -23,7 +23,7 @@
 - Daily 6 a.m. Central schedule enabled, daylight-saving aware; minute worker drains resumable jobs.
 - First run: 68 blocked county tasks, zero regions searched. No feed or credentials invented.
 - Historical/unverified properties remain in Saved archive. Active results require fresh explicit active status plus the qualification checks.
-- Browser automation download was unavailable in the execution environment; UI checked separately where available. Backend and JavaScript syntax tests passed.
+- Published site verified in the cloud browser: 80 archive cards, zero falsely verified active cards, and 68 live coverage rows. Backend and JavaScript syntax tests passed. GitHub Pages deployment c7524c1 completed successfully.
 - Runbook and activation instructions: OPERATIONS.md.
 
 ## Activation dependency

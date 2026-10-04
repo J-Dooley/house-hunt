@@ -50,13 +50,14 @@ Inspect `househunt_runs` and `househunt_coverage` from the site or SQL. Job rows
 
 Retry after fixing access with a manual run. Existing cursor state allows interrupted queued/running jobs to resume. New manual runs are distinct audit records; daily runs are idempotent per Central-time date.
 
-SQL and worker sources are checkpointed in this repository. Database migrations already applied are `househunt_automation_foundation` and `househunt_atomic_page_ingestion`; do not blindly rerun the initial policy DDL. `automation.sql` and `ingestion.sql` record the applied definitions. Bootstrap uses the legacy inventory snapshot; it must not be rerun over newer live research. To pause discovery, disable the relevant source or unschedule the two named cron jobs. This does not erase data or favorites.
+SQL and worker sources are checkpointed in this repository. Database migrations already applied are `househunt_automation_foundation`, `househunt_atomic_page_ingestion`, `househunt_internal_trigger_permissions` and `househunt_preserve_stronger_verification`; do not blindly rerun the initial policy DDL. `automation.sql` and `ingestion.sql` record the applied definitions. Bootstrap uses the legacy inventory snapshot; it must not be rerun over newer live research. To pause discovery, disable the relevant source or unschedule the two named cron jobs. This does not erase data or favorites.
 
 ## Validation
 
 - `npm test`: status, freshness, dwelling/price/acreage, compound, pagination-origin and identity tests.
 - `tests/database.sql`: transactional integration tests of page ingestion, status removal, research preservation, idempotent replay, leases, usage caps, permissions and receipts. Always rolls back fixtures.
 - `node scripts/verify-ui.cjs`: optional local browser smoke test with Playwright/Chromium installed; exercises the existing interface and local preference persistence.
+- Published site verified in the cloud browser: 80 archived cards, zero unverified active results, 68 coverage rows; no application JavaScript errors observed.
 - Deployed worker was invoked using its Vault-backed secret and returned HTTP 200 with zero pages while no jobs were ready.
 
 RLS is enabled on all tables. Worker state and observation tables intentionally have no client policies or grants. The dispatch token is stored in Vault; only its SHA-256 digest is available to the service-role worker. Anonymous requests cannot execute worker RPCs or read worker credentials. Supabase's pg_net extension is non-relocatable and uses its own `net` functions; its extension-metadata schema warning does not imply a public inventory write path.
