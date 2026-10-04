@@ -1,0 +1,516 @@
+{
+  "version": 1,
+  "timezone": "America/Chicago",
+  "daily_hour": 6,
+  "freshness_hours": 30,
+  "homes": {
+    "max_price": 500000,
+    "min_acres": 2,
+    "preferred_rural_acres": 5,
+    "high_cost_min_acres": 1,
+    "high_cost_ca_counties": [
+      "Alameda",
+      "Contra Costa",
+      "Marin",
+      "Monterey",
+      "Napa",
+      "San Francisco",
+      "San Luis Obispo",
+      "San Mateo",
+      "Santa Clara",
+      "Santa Cruz",
+      "Solano",
+      "Sonoma"
+    ],
+    "site_built_required": true
+  },
+  "compounds": {
+    "max_price": 2000000,
+    "min_acres": 10,
+    "min_legal_livable_detached_homes": 2
+  },
+  "regions": [
+    {
+      "key": "CA:Alameda",
+      "state": "CA",
+      "county": "Alameda",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Alpine",
+      "state": "CA",
+      "county": "Alpine",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Amador",
+      "state": "CA",
+      "county": "Amador",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Butte",
+      "state": "CA",
+      "county": "Butte",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Calaveras",
+      "state": "CA",
+      "county": "Calaveras",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Colusa",
+      "state": "CA",
+      "county": "Colusa",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Contra Costa",
+      "state": "CA",
+      "county": "Contra Costa",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Del Norte",
+      "state": "CA",
+      "county": "Del Norte",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:El Dorado",
+      "state": "CA",
+      "county": "El Dorado",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Fresno",
+      "state": "CA",
+      "county": "Fresno",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Glenn",
+      "state": "CA",
+      "county": "Glenn",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Humboldt",
+      "state": "CA",
+      "county": "Humboldt",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Inyo",
+      "state": "CA",
+      "county": "Inyo",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Kings",
+      "state": "CA",
+      "county": "Kings",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Lake",
+      "state": "CA",
+      "county": "Lake",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Lassen",
+      "state": "CA",
+      "county": "Lassen",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Madera",
+      "state": "CA",
+      "county": "Madera",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Marin",
+      "state": "CA",
+      "county": "Marin",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Mariposa",
+      "state": "CA",
+      "county": "Mariposa",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Mendocino",
+      "state": "CA",
+      "county": "Mendocino",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Merced",
+      "state": "CA",
+      "county": "Merced",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Modoc",
+      "state": "CA",
+      "county": "Modoc",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Mono",
+      "state": "CA",
+      "county": "Mono",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Monterey",
+      "state": "CA",
+      "county": "Monterey",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Napa",
+      "state": "CA",
+      "county": "Napa",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Nevada",
+      "state": "CA",
+      "county": "Nevada",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Placer",
+      "state": "CA",
+      "county": "Placer",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Plumas",
+      "state": "CA",
+      "county": "Plumas",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Sacramento",
+      "state": "CA",
+      "county": "Sacramento",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:San Benito",
+      "state": "CA",
+      "county": "San Benito",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:San Francisco",
+      "state": "CA",
+      "county": "San Francisco",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:San Joaquin",
+      "state": "CA",
+      "county": "San Joaquin",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:San Luis Obispo",
+      "state": "CA",
+      "county": "San Luis Obispo",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:San Mateo",
+      "state": "CA",
+      "county": "San Mateo",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Santa Clara",
+      "state": "CA",
+      "county": "Santa Clara",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Santa Cruz",
+      "state": "CA",
+      "county": "Santa Cruz",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Shasta",
+      "state": "CA",
+      "county": "Shasta",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Sierra",
+      "state": "CA",
+      "county": "Sierra",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Siskiyou",
+      "state": "CA",
+      "county": "Siskiyou",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Solano",
+      "state": "CA",
+      "county": "Solano",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Sonoma",
+      "state": "CA",
+      "county": "Sonoma",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Stanislaus",
+      "state": "CA",
+      "county": "Stanislaus",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Sutter",
+      "state": "CA",
+      "county": "Sutter",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Tehama",
+      "state": "CA",
+      "county": "Tehama",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Trinity",
+      "state": "CA",
+      "county": "Trinity",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Tulare",
+      "state": "CA",
+      "county": "Tulare",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Tuolumne",
+      "state": "CA",
+      "county": "Tuolumne",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Yolo",
+      "state": "CA",
+      "county": "Yolo",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "CA:Yuba",
+      "state": "CA",
+      "county": "Yuba",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Clatsop",
+      "state": "OR",
+      "county": "Clatsop",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Tillamook",
+      "state": "OR",
+      "county": "Tillamook",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Lincoln",
+      "state": "OR",
+      "county": "Lincoln",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Lane",
+      "state": "OR",
+      "county": "Lane",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Douglas",
+      "state": "OR",
+      "county": "Douglas",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Coos",
+      "state": "OR",
+      "county": "Coos",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Curry",
+      "state": "OR",
+      "county": "Curry",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Jackson",
+      "state": "OR",
+      "county": "Jackson",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Josephine",
+      "state": "OR",
+      "county": "Josephine",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "OR:Klamath",
+      "state": "OR",
+      "county": "Klamath",
+      "min_acres": 2,
+      "locality_review_required": false
+    },
+    {
+      "key": "WA:Clallam",
+      "state": "WA",
+      "county": "Clallam",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "WA:Jefferson",
+      "state": "WA",
+      "county": "Jefferson",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "WA:Grays Harbor",
+      "state": "WA",
+      "county": "Grays Harbor",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "WA:Pacific",
+      "state": "WA",
+      "county": "Pacific",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "WA:Island",
+      "state": "WA",
+      "county": "Island",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "WA:San Juan",
+      "state": "WA",
+      "county": "San Juan",
+      "min_acres": 1,
+      "locality_review_required": false
+    },
+    {
+      "key": "WA:Kitsap",
+      "state": "WA",
+      "county": "Kitsap",
+      "min_acres": 1,
+      "locality_review_required": true
+    },
+    {
+      "key": "WA:Mason",
+      "state": "WA",
+      "county": "Mason",
+      "min_acres": 1,
+      "locality_review_required": true
+    },
+    {
+      "key": "WA:Skagit",
+      "state": "WA",
+      "county": "Skagit",
+      "min_acres": 1,
+      "locality_review_required": true
+    }
+  ],
+  "notes": [
+    "Two-acre minimum follows current Oct 4 repository notes; five acres remains rural preference. One-acre high-cost exceptions retained.",
+    "CA list explicitly excludes Kern, Santa Barbara, Ventura, Los Angeles, Orange, Riverside, San Bernardino, San Diego and Imperial. That is 49 counties, not the earlier shorthand of 48; Inyo retained for northern communities rather than silently omitted.",
+    "Oregon coastal counties and southern counties; Washington coastal/Olympic/island counties. Skagit is island locations only. Kitsap and Mason require Olympic/coastal locality validation.",
+    "No automatic half-acre exceptions without a recorded property-specific approval."
+  ]
+}
