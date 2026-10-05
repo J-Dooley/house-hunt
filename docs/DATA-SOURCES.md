@@ -38,3 +38,7 @@ Prices are research observations, not approved purchases. No free, permissioned,
 ## Coverage honesty
 
 A scheduled run is not a successful search. Persist source, region, time, pages, records, failures, quota stops and permission gaps. Missing results, HTTP failures and expired evidence never mean sold. Keep those records and their research; withhold them from active results. Expire active evidence after 30 hours. No provider can guarantee instantaneous status changes between updates.
+
+## Stage 4: account-owned alert email channel (2026-10-04)
+
+The saved-search emails delivered to the owner's own Redfin, Zillow or Realtor.com Gmail inbox are now supported as a **push-only discovery and withdrawal input**. No portal scraping, undocumented listing endpoint or MLS license is implied. An alert may report a new listing, price change, Pending, Contingent, Sold or off-market status. An email cannot prove a listing is still Active and free of contingencies, so this source is prohibited in both JavaScript and SQL from promoting a listing to verified Active. Scope is limited to searches actually saved and sending mail. Gmail click-tracking links can conceal the underlying URL. The source is not active until its real email layouts, relay, secret and public-display approval are validated. A status-capable authorized feed or a human exact-listing check remains necessary for Active verification.
