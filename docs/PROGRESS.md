@@ -38,3 +38,5 @@ At least one licensed feed account covering the requested regions must be author
 - The 13 synthetic parser unit tests and 3 relay regression tests passed locally with test-only reconstructions of search rules; the prior 11 baseline tests were reported by Claude, not rerun here against the full repository.
 - Connected Gmail search found four historical Redfin reminder/share messages but no genuine saved-search alert samples suitable for parser validation. No portal alert source has been enabled and no provider feed has been purchased.
 - Next dependency: owner-controlled saved searches/mailbox, setting the Edge Function secret, real email layout validation, final public-display authorization, authenticated function→database smoke test, and an independent status verifier for verified Active listings.
+
+- GitHub Actions public-repository workflow `househunt-tests.yml`: Node test job and Postgres 16 SQL test job both passed on the full branch at run #2 (https://github.com/J-Dooley/house-hunt/actions/runs/37258716662). This supersedes reliance on the isolated-rule test harness for the branch.
