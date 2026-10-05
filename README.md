@@ -12,3 +12,5 @@ The original site and inventory are retained. Supabase hosts the cumulative inve
 - [Search scope and criteria](config/search.json)
 
 Run `npm test` for the pure rule tests. Database integration tests are in `tests/database.sql` and roll back all fixtures. Supabase SQL and Edge Function source are versioned under `supabase/`.
+
+Stage 4 (review branch): alert-email discovery/withdrawal has been implemented and its SQL applied to Supabase. The househunt-inbound function is deployed but intentionally rejects requests without a 32+ character secret. The portal-alerts source remains disabled and cannot certify Active. See [alert activation](docs/OPERATIONS.md#stage-4-saved-search-alert-activation).
