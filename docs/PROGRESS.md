@@ -29,3 +29,12 @@
 ## Activation dependency
 
 At least one licensed feed account covering the requested regions must be authorized. GitHub and Supabase connections are infrastructure access, not MLS data licenses. Optional RentCast discovery requires its own key and spend approval beyond a hard-capped free trial. Complete infrastructure work before requesting this assistance.
+
+## Stage 4: completed technical checkpoint (2026-10-04)
+
+- Branch `stage4-alert-ingestion-review` and draft pull request #1 contain the complete alert parser, ZIP-county lookup, Gmail relay with per-message delivery checkpoint, full `alerts.sql`, inbound function and test files. Main and the published GitHub Pages site are unchanged.
+- `househunt_alert_foundation` and `househunt_stage4_alert_ingestion` migrations applied to the existing Supabase House Hunt project. Live rollback-only alert SQL integration tests returned without errors. Post-test checks: 80 property records; zero alert messages and jobs; source still disabled and unauthorized.
+- Supabase Edge Function `househunt-inbound` deployed and confirmed ACTIVE with all required shared files. An unauthenticated HTTP POST returned 401. A valid authenticated full ingestion has **not** run because the function secret, real alert fixtures and dedicated mailbox relay have not been configured.
+- The 13 synthetic parser unit tests and 3 relay regression tests passed locally with test-only reconstructions of search rules; the prior 11 baseline tests were reported by Claude, not rerun here against the full repository.
+- Connected Gmail search found four historical Redfin reminder/share messages but no genuine saved-search alert samples suitable for parser validation. No portal alert source has been enabled and no provider feed has been purchased.
+- Next dependency: owner-controlled saved searches/mailbox, setting the Edge Function secret, real email layout validation, final public-display authorization, authenticated function→database smoke test, and an independent status verifier for verified Active listings.
