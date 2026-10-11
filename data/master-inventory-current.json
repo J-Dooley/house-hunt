@@ -1,0 +1,2878 @@
+{
+  "as_of": "2026-10-11",
+  "status_rules": "Active excludes pending, contingent, accepting backups, sold, off-market and conflicting status. Held retained.",
+  "coverage_note": "Partial searches only; 48 California counties and OR/WA not exhaustively checked.",
+  "properties": [
+    {
+      "id": "2505-windy-creek-rd",
+      "address": "2505 Windy Creek Rd",
+      "place": "Glendale, OR 97442",
+      "region": "Southern Oregon · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "82 fit",
+      "price": "$225,000",
+      "acreage": "5.48",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/2505-Windy-Creek-Rd-Glendale-OR-97442/121093886_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=2505+Windy+Creek+Rd%2C+Glendale%2C+OR+97442"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. Site-built 2-bed/1-bath log-sided house on 5.48 acres, well/septic, ~25 min to Grants Pass per agent. Home needs cleanup/repairs and spring-fed outdoor tank should not be confused with indoor drinking water. Oct 11 Realtor.com reports Oct 4 cut to $225,000; older Redfin price is stale.",
+      "why": "Site-built log-sided home with well, septic, spring-fed irrigation storage, fruit trees and outbuildings.",
+      "due": "Inspect structure, spring system, well/septic, timber rights and fire insurance.",
+      "facts": "$225,000 · PRICE · 5.48 · ACRES · 2 · BEDS · 1 · BATHS · 1,148 · SQ FT",
+      "last_verified": "2026-10-11"
+    },
+    {
+      "id": "405-old-cottonwood-creek-rd",
+      "address": "405 Old Cottonwood Creek Rd",
+      "place": "Hornbrook, CA 96044",
+      "region": "Siskiyou County · On-grid",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "82 fit",
+      "price": "$295,000",
+      "acreage": "2",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/405-Old-Cottonwood-Creek-Rd-Hornbrook-CA-96044/2060667515_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=405+Old+Cottonwood+Creek+Rd%2C+Hornbrook%2C+CA+96044"
+        }
+      ],
+      "source_note": "Oct 4 Zillow price history and current home page: For Sale $295,000; verify well, septic, road and insurance.",
+      "why": "Move-in-ready creekfront home with Mount Shasta views, shop, garden potential and paved access.",
+      "due": "Confirm creek seasonality/flood setback, well report, septic and wildfire insurance.",
+      "facts": "$295,000 · PRICE · 2 · ACRES · 3 · BEDS · 2 · BATHS · 1,618 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "325-vitzthum-gulch-rd",
+      "address": "325 Vitzthum Gulch Rd",
+      "place": "Douglas City, CA 96024",
+      "region": "Trinity County · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "77 fit",
+      "price": "$214,500",
+      "acreage": "5.7",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/325-Vitzthum-Gulch-Rd-Douglas-City-CA-96024/334061966_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=325+Vitzthum+Gulch+Rd%2C+Douglas+City%2C+CA+96024"
+        }
+      ],
+      "source_note": "Oct 4 direct Zillow listing: For sale after October 1 $10,000 price reduction to $204,500; 2 bedrooms/2 bathrooms, 813 sq ft and 5.7 acres. Oct 11 Zillow and Trulia show July relist at $214,500.",
+      "why": "Affordable site-built small cabin on 5.7 acres near Weaverville, with deck and pond; good acreage for the price, but the 813 sq ft size may be limiting.",
+      "due": "Confirm well and pond rights, septic records, access, wildfire insurance and actual hospital trip. Check construction/permits of three-story cabin and any moisture issues.",
+      "facts": "$214,500 · PRICE · 5.7 · ACRES · 2 · BEDS · 2 · BATHS · 813 · SQ FT",
+      "last_verified": "2026-10-11"
+    },
+    {
+      "id": "6060-cosumnes-vista-rd",
+      "address": "6060 Cosumnes Vista Rd",
+      "place": "Placerville, CA 95667",
+      "region": "El Dorado County · On-grid / two wells reported",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "77 fit",
+      "price": "$472,000",
+      "acreage": "5.01",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/6060-Cosumnes-Vista-Rd-Placerville-CA-95667/18588007_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=6060+Cosumnes+Vista+Rd%2C+Placerville%2C+CA+95667"
+        }
+      ],
+      "source_note": "Oct 4 Zillow Active at $472,000 after October 2 cut; Realtor still shows stale $482,000.",
+      "why": "Five usable fenced acres, mountain views, a pool, 860-sq-ft shop and two wells advertised, within an agent-estimated 20-minute drive of downtown Placerville.",
+      "due": "Verify both wells and irrigation rights, well tests, septic inspections, slope/usable acreage, insurance and deeded road. Building pad is NOT an existing/legal second home. Zillow now shows $472K after Oct 2 price cut; older Realtor page shows $482K.",
+      "facts": "$472,000 · PRICE · 5.01 · ACRES · 3 · BEDS · 2 · BATHS · 1,460 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "11592-peoria-rd",
+      "address": "11592 Peoria Rd",
+      "place": "Browns Valley, CA 95918",
+      "region": "Yuba County · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "76 fit",
+      "price": "$355,000",
+      "acreage": "3.22",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/11592-Peoria-Rd-Browns-Valley-CA-95918/16558240_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=11592+Peoria+Rd%2C+Browns+Valley%2C+CA+95918"
+        }
+      ],
+      "source_note": "Oct 4 Zillow and Redfin exact listings: For Sale $355,000 on 3.22 acres, 2 bed/1 bath, 1,488 sq ft. Older Realtor.com page shows previous $375,000 price.",
+      "why": "Move-in-ready site-built home on usable pasture/woods with well, septic, public electric, internet availability, multiple garages/workshop space and Highway 20 access.",
+      "due": "Verify well report, septic inspection, insurance/fire exposure, acreage split across the road and roof condition.",
+      "facts": "$355,000 · PRICE · 3.22 · ACRES · 2 · BEDS · 1 · BATHS · 1,488 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "1-cedar-st",
+      "address": "1 Cedar St",
+      "place": "Blue Lake, CA 95525",
+      "region": "Humboldt County · Off-grid",
+      "status_label": "HELD · OVER $500K LIMIT",
+      "fit_display": "75 fit",
+      "price": "$560,000",
+      "acreage": "49.5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Blue-Lake/1-I-St-95525/home/205569573"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1+Cedar+St%2C+Blue+Lake%2C+CA+95525"
+        }
+      ],
+      "source_note": "October 4 check: still advertised for sale at $560,000, exceeding the $500,000 house budget. Retained in inventory, excluded from active view.",
+      "why": "49.5 wooded acres with a real residence, solar, year-round spring, private sewer, garden/orchard and chicken-coop infrastructure.",
+      "due": "Verify late-summer spring production, solar/battery capacity, legal access, fire insurance and emergency route.",
+      "facts": "$499,000 · PRICE · 49.5 · ACRES · 2 · BEDS · 1 · BATHS · 1,728 · SQ FT"
+    },
+    {
+      "id": "10825-paskenta-rd",
+      "address": "10825 Paskenta Rd",
+      "place": "Red Bluff, CA 96080",
+      "region": "Tehama County · On-grid",
+      "status_label": "FOR SALE · OCT 4 CROSS-CHECKED",
+      "fit_display": "74 fit",
+      "price": "$350,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Red-Bluff/10825-Paskenta-Rd-96080/home/123939180"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.zillow.com/homedetails/10825-Paskenta-Rd-Red-Bluff-CA-96080/16174166_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=10825%20Paskenta%20Rd%2C%20Red%20Bluff%2C%20CA%2096080"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "1936 site-built 4-bedroom home on five acres with domestic well and leased solar.",
+      "due": "Inspect foundation, roof, septic, well, leased solar and insurance.",
+      "facts": "4 bd · 2 ba · 1,826 sq ft",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "18650-janach-ct",
+      "address": "18650 Janach Ct",
+      "place": "Cottonwood, CA 96022",
+      "region": "Tehama County · On-grid + solar / well",
+      "status_label": "FOR SALE · OCT 4 VERIFIED",
+      "fit_display": "74 fit",
+      "price": "$415,000",
+      "acreage": "4.35",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Cottonwood/18650-Janach-Ct-96022/home/168676575"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=18650+Janach+Ct%2C+Cottonwood%2C+CA+96022"
+        },
+        {
+          "label": "LandSearch verification ↗",
+          "url": "https://www.landsearch.com/properties/18650-janach-ct-cottonwood-ca-96022/5594261"
+        }
+      ],
+      "source_note": "Oct 4 Redfin and LandSearch: For Sale $415,000, 4.35 acres, site-built 2018 single-story, 2 bed/2 bath, well, septic and solar. High modeled wildfire exposure (8/10 First Street Fire Factor).",
+      "why": "2018 site-built home on relatively level acreage, with solar, well, septic and a two-car garage. Practical access toward Redding is promising, but actual hospital drive time needs verification.",
+      "due": "High modeled wildfire exposure (Redfin First Street Fire Factor 8/10). Obtain actual insurer quotes and defensible-space requirements; verify solar ownership, well production, road maintenance and hospital drive time.",
+      "facts": "$415,000 · PRICE · 4.35 · ACRES · 2 · BEDS · 2 · BATHS · 1,368 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "4340-blackhawk-dr",
+      "address": "4340 Blackhawk Dr",
+      "place": "Willits, CA 95490",
+      "region": "Mendocino County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "74 fit",
+      "price": "$399,000",
+      "acreage": "12.29",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Willits/4340-Blackhawk-Dr-95490/home/120111476"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4340%20Blackhawk%20Dr%2C%20Willits%2C%20CA%2095490"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Redfin + Realtor + LandSearch; for sale, checked Oct 3.",
+      "why": "Custom 2007 home on 12.29 wooded acres, with powered and plumbed outbuildings; listing says about 15 minutes to Willits and 25 to Ukiah.",
+      "due": "Check which acreage is level, well yield, winter road, insurance and whether the outbuildings or studio have permits.",
+      "facts": "$399,000 · PRICE · 12.29 · ACRES · 2 · BEDS · 2 · BATHS · 1,364 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "9936-sniktaw-ln",
+      "address": "9936 Sniktaw Ln",
+      "place": "Fort Jones, CA 96032",
+      "region": "Siskiyou County · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "74 fit",
+      "price": "$349,000",
+      "acreage": "10",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Fort-Jones/9936-Sniktaw-Ln-96032/home/123051301"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=9936+Sniktaw+Ln%2C+Fort+Jones%2C+CA+96032"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Redfin · active check Oct 1, 2026 · Listing-status review Oct 3; detail checks may be older",
+      "why": "Ten wooded acres with Sniktaw Creek, three-car garage, usable ground and a full three-bedroom house.",
+      "due": "Confirm creek/flood exposure, well/septic, road maintenance, winter access and wildfire insurance.",
+      "facts": "$349,000 · PRICE · 10 · ACRES · 3 · BEDS · 2 · BATHS · 1,777 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "10142-rocking-horse-ln",
+      "address": "10142 Rocking Horse Ln",
+      "place": "Redding, CA 96003",
+      "region": "Shasta County",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "73 fit",
+      "price": "$495,000",
+      "acreage": "4.94",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/10142-Rocking-Horse-Ln-Redding-CA-96003/15224532_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.reddinghomes.com/property-search/detail/318/26-5013/10142-rocking-horse-ln-redding-ca-96003/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=10142%20Rocking%20Horse%20Ln%2C%20Redding%2C%20CA%2096003"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Ranch home on 4.94 acres with mature oaks, seasonal pond, sunroom and workshop.",
+      "due": "Confirm well/water, pond seasonality, permits, septic, insurance and usable acreage.",
+      "facts": "3 bd · 2 ba · 1,512 sq ft · 1977",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "338-topaz-ln",
+      "address": "338 Topaz Ln",
+      "place": "Roseburg, OR 97471",
+      "region": "Douglas County",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK · PRICE RECHECK",
+      "fit_display": "72 fit",
+      "price": "$380,800",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/338-Topaz-Ln-Roseburg-OR-97471/61062373_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.homes.com/property/338-topaz-ln-roseburg-or/cf6strycmwxtn/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=338%20Topaz%20Ln%2C%20Roseburg%2C%20OR%2097471"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Five-acre site-built foreclosure/fixer with public water and sewer.",
+      "due": "Verify current $380,800 price versus stale $448k mirrors, repairs, HOA, financing and insurance.",
+      "facts": "3 bd · 2.5 ba · 2,574 sq ft · 1995",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "5586-upper-cow-creek-rd",
+      "address": "5586 Upper Cow Creek Rd",
+      "place": "Azalea, OR 97410",
+      "region": "Douglas County · Compounds",
+      "status_label": "HELD · OCT 8 SECOND HOUSE UNVERIFIED",
+      "fit_display": "72 fit",
+      "price": "$624,000",
+      "acreage": "82.53",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.coldwellbanker.com/or/azalea/5586-upper-cow-creek-rd/lid-P00800000HFztI89I6l7ATGWsQLHKFThodxyRJAa"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.redfin.com/OR/Azalea/5586-Upper-Cow-Creek-Rd-97410/home/26029893"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5586%20Upper%20Cow%20Creek%20Rd%2C%20Azalea%2C%20OR%2097410"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "82-acre farm with advertised second residence, ponds and wells.",
+      "due": "Confirm second house permits, legal occupancy, irrigation rights, access and insurance.",
+      "facts": "Main 5 bd · 2 ba",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "5627-buckskin-rd",
+      "address": "5627 Buckskin Rd",
+      "place": "Mariposa, CA 95338",
+      "region": "Mariposa County",
+      "status_label": "FOR SALE · OCT 4 CROSS-CHECKED",
+      "fit_display": "72 fit",
+      "price": "$439,999",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Mariposa/5627-Buckskin-Rd-95338/home/119773656"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.zillow.com/homedetails/5627-Buckskin-Rd-Mariposa-CA-95338/110278953_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5627%20Buckskin%20Rd%2C%20Mariposa%2C%20CA%2095338"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "1997 site-built home on five acres with orchard, seasonal creek and workshop.",
+      "due": "Confirm status after prior contract, water, septic, HOA, insurance and access.",
+      "facts": "3 bd · 3 ba · 2,250 sq ft",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "10473-blue-mountain-ranch-rd",
+      "address": "10473 Blue Mountain Ranch Rd",
+      "place": "Whitmore, CA 96096",
+      "region": "Shasta County · On-grid",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "71 fit",
+      "price": "$289,900",
+      "acreage": "10",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Whitmore/10473-Blue-Mountain-Ranch-Rd-96096/home/161778800"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=10473+Blue+Mountain+Ranch+Rd%2C+Whitmore%2C+CA+96096"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com: For Sale $289,900, 10 acres, 3-bed/2-bath A-frame with barn and garage; confirm framing/construction records and insurance.",
+      "why": "Remodeled A-frame on 10 flat usable wooded acres with barn, detached garage and shop.",
+      "due": "Verify septic, well yield, barn/shop permits, wildfire insurance, road maintenance and winter access.",
+      "facts": "$289,900 · PRICE · 10 · ACRES · 3 · BEDS · 2 · BATHS · 1,008 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "26672-old-loggers-ln",
+      "address": "26672 Old Loggers Ln",
+      "place": "Colfax, CA 95713",
+      "region": "Placer County · On-grid",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "71 fit",
+      "price": "$399,000",
+      "acreage": "12.6",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/26672-Old-Loggers-Ln-Colfax-CA-95713/17705627_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=26672+Old+Loggers+Ln%2C+Colfax%2C+CA+95713"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com, Redfin and MLSListings: For Sale $399,000, 12.6 acres, 4-bed/2-bath fixer; $31K price cut Sep 10. Seasonal creek and private drive; renovation and road-maintenance budgets necessary.",
+      "why": "Four-bedroom fixer on 12.6 acres with well, septic, 220V service and a seasonal creek.",
+      "due": "Inspect fixer condition, oil system, creek/drainage, private-road obligations, fire insurance and permits.",
+      "facts": "$399,000 · PRICE · 12.6 · ACRES · 4 · BEDS · 2 · BATHS · 1,605 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "4662-hall-rd-corning",
+      "address": "4662 Hall Rd",
+      "place": "Corning, CA 96021",
+      "region": "Tehama County",
+      "status_label": "FOR SALE · OCT 4 CROSS-CHECKED",
+      "fit_display": "71 fit",
+      "price": "$499,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/4662-hall-rd-corning-ca-96021/5579863"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.mlslistings.com/property/crsn26207874/4662-hall-rd-corning-ca-96021/17972887"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4662%20Hall%20Rd%2C%20Corning%2C%20CA%2096021"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "1981 site-built home on five fenced acres with well.",
+      "due": "Confirm well, septic, insurance, fire risk and medical access.",
+      "facts": "3 bd · 2 ba · 1,484 sq ft",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "1201-reeves-creek-rd",
+      "address": "1201 Reeves Creek Rd",
+      "place": "Selma, OR 97538",
+      "region": "Southern Oregon · Well / septic",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "70 fit",
+      "price": "$450,000",
+      "acreage": "2.94",
+      "links": [
+        {
+          "label": "Open Zillow listing ↗",
+          "url": "https://www.zillow.com/homedetails/1201-Reeves-Creek-Rd-Selma-OR-97538/60784542_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1201%20Reeves%20Creek%20Rd%2C%20Selma%2C%20OR%2097538"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. Log-style site-built 2-bed/2-bath home, 2.94 acres with new roof advertised; about half a mile from Lake Selmac. Verify permits, condition, well/septic and emergency medical drive times.",
+      "why": "Log-built home on a wooded 2.94-acre parcel near Lake Selmac. Updated roof (2026), heating/cooling, detached garage and work space. Site-built per listing.",
+      "due": "Confirm well yield, septic inspection, roof documentation, insurance on log construction, permits and fire protection.",
+      "facts": "$450,000 · PRICE · 2.94 · ACRES · 2 · BEDS · 2 · BATHS · 1,400 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "12745-wilson-river-hwy",
+      "address": "12745 Wilson River Hwy",
+      "place": "Tillamook, OR 97141",
+      "region": "Oregon Coast · On-grid",
+      "status_label": "HELD · NOT CURRENTLY VERIFIED",
+      "fit_display": "70 fit",
+      "price": "$269,000",
+      "acreage": "0.9",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/12745-Wilson-River-Hwy-Tillamook-OR-97141/62814185_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=12745+Wilson+River+Hwy%2C+Tillamook%2C+OR+97141"
+        }
+      ],
+      "source_note": "Zillow · active check Oct 1, 2026",
+      "why": "Site-built 1947 fixer with connected electricity, private well and septic, minutes from Tillamook.",
+      "due": "Cash-oriented project. Check flood/landslide risk, septic, well, highway exposure and insurance.",
+      "facts": "$269,000 · PRICE · 0.9 · ACRES · 2 · BEDS · 1 · BATHS · 1,123 · SQ FT"
+    },
+    {
+      "id": "16101-barbara-ct",
+      "address": "16101 Barbara Ct",
+      "place": "Grass Valley, CA 95949",
+      "region": "Nevada County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "70 fit",
+      "price": "$295,000",
+      "acreage": "10.03",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/16101-Barbara-Ct_Grass-Valley_CA_95949_M92469-14606"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=16101+Barbara+Ct%2C+Grass+Valley%2C+CA+95949"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com: For Sale $295,000, 10.03 acres, 2-bed/1-bath log cabin with seasonal ponds and creek. Verify winter vehicle access, water rights and home-permit records.",
+      "why": "1978 log cabin on 10 acres with pond/NID-creek features and a current MLS sale page.",
+      "due": "A separate old public-record page exists; rely on the current MLS sale page and verify occupancy, utilities, water, septic, insurance and access.",
+      "facts": "$295,000 · PRICE · 10.03 · ACRES · 2 · BEDS · 1 · BATHS · 760 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "6016-state-highway-273",
+      "address": "6016 State Highway 273",
+      "place": "Anderson, CA 96007",
+      "region": "Shasta County",
+      "status_label": "FOR SALE · OCT 4 CROSS-CHECKED",
+      "fit_display": "70 fit",
+      "price": "$365,000",
+      "acreage": "3.75",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/6016-State-Highway-273-Anderson-CA-96007/465736763_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.landsearch.com/properties/6016-ca-273-anderson-ca-96007/5597523"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=6016%20State%20Highway%20273%2C%20Anderson%2C%20CA%2096007"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "Site-built 3/2 home on 3.75 acres with well and advertised irrigation entitlement.",
+      "due": "Verify irrigation entitlement, well, septic, highway noise, insurance and permits.",
+      "facts": "3 bd · 2 ba · 1,775 sq ft",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "770-18th-ave",
+      "address": "770 18th Ave",
+      "place": "Coos Bay, OR 97420",
+      "region": "Coos County · Oregon Coast",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "70 fit",
+      "price": "$399,000",
+      "acreage": "4.42",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/770-18th-Ave-Coos-Bay-OR-97420/113191646_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.compass.com/homedetails/770-18th-Ave-Coos-Bay-OR-97420/1D0XM_pid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=770%2018th%20Ave%2C%20Coos%20Bay%2C%20OR%2097420"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Custom 1992 home with river views and studio space.",
+      "due": "Inspect slope, drainage, permitted guest use, foundation and parcel boundaries.",
+      "facts": "3 bd · 4 ba · 2,862 sq ft",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "891-salt-flat-rd-lewiston-ca-96052",
+      "address": "891 Salt Flat Rd",
+      "place": "Lewiston, CA 96052",
+      "region": "Trinity County · Compound candidate · separate ADU advertised",
+      "status_label": "ACTIVE · OCT 4 BROKER CHECK · COMPOUND CANDIDATE",
+      "fit_display": "70 fit",
+      "price": "$445,000",
+      "acreage": "5.45",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.trinitycountyproperties.com/home/detail-12_10125339-891-Salt-Flat-Rd-Lewiston-CA-96052"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=891+Salt+Flat+Rd%2C+Lewiston%2C+CA+96052"
+        }
+      ],
+      "source_note": "Oct 4 Trinity County Properties broker page: Active, $445,000, 5.45 acres; advertises 2 residences (3/2 main ~2,450 sq ft and 1/1 guest ~950 sq ft), separate power meters and septic systems. Guest-house legal permitting still needs independent verification.",
+      "why": "Rare two-residence property under the ordinary $500K home cap, with an orchard, separate utilities and privacy. Attractive candidate even though 5.45 acres is below the preferred 10-acre compound threshold.",
+      "due": "Confirm permits/legal status of both dwellings, well capacity, road access, wildfire insurance and hospital route. Obtain Trinity County final permits and certificates of legal habitation for BOTH residences, independent water/septic inspection reports, actual hospital drive time and fire-insurance quotes before treating this as a verified legal compound.",
+      "facts": "$445,000 · 5.45 acres · main house 3 bed/2 bath (~2,450 sq ft) + guest cottage 1 bed/1 bath (~950 sq ft) · two septic systems and meters stated by broker",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "1055-goodman-ranch-rd",
+      "address": "1055 Goodman Ranch Rd",
+      "place": "Garberville, CA 95542",
+      "region": "Humboldt County · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "69 fit",
+      "price": "$185,000",
+      "acreage": "40",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/1055-Goodman-Ranch-Rd-Garberville-CA-95542/83136902_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1055+Goodman+Ranch+Rd%2C+Garberville%2C+CA+95542"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Zillow · active check Oct 1, 2026 · Listing-status review Oct 3; detail checks may be older",
+      "why": "Highly unusual eight-hexagon artist house on 40 acres with PG&E power, spring water, orchard and garage.",
+      "due": "Major fixer. Verify spring rights/treatment, septic, permits, road condition and wildfire insurance.",
+      "facts": "$185,000 · PRICE · 40 · ACRES · 2 · BEDS · 1 · BATHS · 2,078 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "3091-sand-ridge-rd",
+      "address": "3091 Sand Ridge Rd",
+      "place": "Placerville, CA 95667",
+      "region": "El Dorado County · On-grid + solar / well",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "69 fit",
+      "price": "$445,500",
+      "acreage": "3.37",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/3091-Sand-Ridge-Rd-Placerville-CA-95667/18588469_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=3091+Sand+Ridge+Rd%2C+Placerville%2C+CA+95667"
+        }
+      ],
+      "source_note": "Oct 4 exact Zillow page lists Active $445,500 after August $2K price reduction; 4bd/2ba, 1,536 sq ft, 3.37 acres.",
+      "why": "Four-bedroom existing house on 3.37 fenced and cross-fenced acres with solar, well, mature trees and Sierra foothill views.",
+      "due": "Verify roof/HVAC, solar ownership or lease and roof penetrations, well yield, septic capacity, wildfire insurance, road access and actual emergency-care times.",
+      "facts": "$445,500 · PRICE · 3.37 · ACRES · 4 · BEDS · 2 · BATHS · 1,536 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "55395-glen-aiken-creek-rd",
+      "address": "55395 Glen Aiken Creek Rd",
+      "place": "Coquille, OR 97423",
+      "region": "Coos County · Oregon Coast",
+      "status_label": "ACTIVE · OCT 8 CROSS-CHECKED",
+      "fit_display": "69 fit",
+      "price": "$399,000",
+      "acreage": "13.78",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/55395-glen-aiken-creek-rd-coquille-or-97423/5174903"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.coldwellbankerhomes.com/or/coquille/55395-glen-aiken-creek-rd/pid_70653805/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=55395%20Glen%20Aiken%20Creek%20Rd%2C%20Coquille%2C%20OR%2097423"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "13.78 acres on creek with older home and advertised water rights.",
+      "due": "Severe flood risk; verify flood insurance, rights, bridge/crossing, foundation and septic.",
+      "facts": "3 bd · 1 ba · 2,430 sq ft",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "1880-fairhill-dr",
+      "address": "1880 Fairhill Dr",
+      "place": "Roseburg, OR 97471",
+      "region": "Douglas County",
+      "status_label": "HELD · OCT 8 PRICE CONFLICT",
+      "fit_display": "68 fit",
+      "price": "$449,000",
+      "acreage": "2.7",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/OR/Roseburg/1880-Fairhill-Dr-97471/home/26086502"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/1880-Fairhill-Dr_Roseburg_OR_97471_M20623-47229"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1880%20Fairhill%20Dr%2C%20Roseburg%2C%20OR%2097471"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "Conventional home on pasture, but competing MLS price/listing scopes.",
+      "due": "$449k versus $542k conflicting listings; verify exact APN and offering.",
+      "facts": "3 bd · 2 ba",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "19115-highway-42",
+      "address": "19115 Highway 42",
+      "place": "Camas Valley, OR 97416",
+      "region": "Southern Oregon · On-grid",
+      "status_label": "HELD · NOT CURRENTLY VERIFIED",
+      "fit_display": "68 fit",
+      "price": "$499,000",
+      "acreage": "5.22",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/OR/Camas-Valley/19115-Highway-42-97416/home/26086897"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=19115+Highway+42%2C+Camas+Valley%2C+OR+97416"
+        }
+      ],
+      "source_note": "Redfin · active check Oct 1, 2026",
+      "why": "Site-built 1950 farmhouse on 5.22 fenced, level acres with a large pond, barn, shop/outbuildings, fruit and nut trees, well and septic.",
+      "due": "Check highway exposure, well/septic records, pond/water rights, outbuilding permits, insurance and emergency drive.",
+      "facts": "$499,000 · PRICE · 5.22 · ACRES · 3 · BEDS · 1 · BATHS · 1,136 · SQ FT"
+    },
+    {
+      "id": "29153-s-cow-creek-rd",
+      "address": "29153 S Cow Creek Rd",
+      "place": "Whitmore, CA 96096",
+      "region": "Shasta County · On-grid",
+      "status_label": "HELD · OCT 10 LISTING REMOVED / ACTIVE CONFLICT",
+      "fit_display": "68 fit",
+      "price": "$475,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/29153-s-cow-creek-rd-whitmore-ca-96096/5167494"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=29153+S+Cow+Creek+Rd%2C+Whitmore%2C+CA+96096"
+        }
+      ],
+      "source_note": "Last reviewed Oct 3; not independently reconfirmed as active on Oct 4. Original source: LandSearch/current listing feed · active check Oct 1, 2026 · Listing-status review Oct 3; detail checks may be older Oct 10: Trulia records listing removed Oct 2, while Redfin and LandSearch still show for sale. Strict HOLD pending broker confirmation.",
+      "why": "Conventional five-acre option with a 2004 single-family home, level ground, garage/outbuilding and well.",
+      "due": "Verify septic/power, well report, wildfire insurance, defensible space and road condition.",
+      "facts": "$475,000 · PRICE · 5 · ACRES · 3 · BEDS · 2 · BATHS · 2,056 · SQ FT",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "4902-e-moffett-creek-rd",
+      "address": "4902 E Moffett Creek Rd",
+      "place": "Fort Jones, CA 96032",
+      "region": "Siskiyou County",
+      "status_label": "FOR SALE · OCT 4 CROSS-CHECKED",
+      "fit_display": "68 fit",
+      "price": "$499,000",
+      "acreage": "48.68",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/4902-E-Moffett-Creek-Rd-Fort-Jones-CA-96032/251526475_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.landsearch.com/properties/4902-e-moffet-creek-rd-fort-jones-ca-96032/5422248"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4902%20E%20Moffett%20Creek%20Rd%2C%20Fort%20Jones%2C%20CA%2096032"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "2016 home on 48.68 acres with seller-reported high-output well.",
+      "due": "Confirm well pump test, parcels, permits, road, insurance and hospital drive.",
+      "facts": "4 bd · 3 ba · 1,920 sq ft",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "5659-sw-spring-hill-rd",
+      "address": "5659 SW Spring Hill Rd",
+      "place": "Gaston, OR 97119",
+      "region": "Western Oregon · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "68 fit",
+      "price": "$450,000",
+      "acreage": "3.23",
+      "links": [
+        {
+          "label": "Open Zillow listing ↗",
+          "url": "https://www.zillow.com/homedetails/5659-SW-Spring-Hill-Rd-Gaston-OR-97119/80933906_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5659%20SW%20Spring%20Hill%20Rd%2C%20Gaston%2C%20OR%2097119"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. 3-bed/1-bath site-built home with shop on 3.23 acres near Gaston and Hagg Lake. Confirm potable water, septic, major repairs and medical access. Oct 10: sampled area/status search corroborated continued active listing; not an exhaustive audit.",
+      "why": "Site-built 1930 home, bonus rooms and sizable workshop on 3.23 acres. Price reduced by $50,000 in August. Outside core coast/SW Oregon area but fits price and acreage.",
+      "due": "Check water source, sewage system, flood exposure, condition of older house, permits and financing.",
+      "facts": "$450,000 · PRICE · 3.23 · ACRES · 3 · BEDS · 1 · BATHS · 1,600 · SQ FT",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "62518-w-catching-rd",
+      "address": "62518 W Catching Rd",
+      "place": "Coos Bay, OR 97420",
+      "region": "Coos County · Well / septic",
+      "status_label": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK",
+      "fit_display": "68 fit",
+      "price": "$449,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/62518-W-Catching-Rd-Coos-Bay-OR-97420/75144436_zpid/"
+        },
+        {
+          "label": "Independent listing/status ↗",
+          "url": "https://www.coldwellbankerhomes.com/or/coos-bay/62518-w-catching-rd/pid_71447066/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=62518%20W%20Catching%20Rd%2C%20Coos%20Bay%2C%20OR%2097420"
+        }
+      ],
+      "source_note": "Zillow and Coldwell Banker Active $449K after September reduction; Redfin has stale $495K price.",
+      "why": "Private five-acre site-built home, multiple living spaces, Catching Slough views.",
+      "due": "Confirm usable slope, well yield, septic, flood/fire insurance, and hospital travel time. Score: medical_services 14/20; price 8/15; usable_land 10/15; water 9/15; utilities 8/10; road_fire_insurance 6/10; setting 9/10; condition 4/5",
+      "facts": "$449,000 · PRICE · 5 · ACRES · 3 · BEDS · 2 · BATHS · 2,496 · SQ FT",
+      "last_verified": "2026-10-11",
+      "score_components": {
+        "medical_services": 14,
+        "price": 8,
+        "usable_land": 10,
+        "water": 9,
+        "utilities": 8,
+        "road_fire_insurance": 6,
+        "setting": 9,
+        "condition": 4
+      },
+      "status_sources": [
+        "https://www.zillow.com/homedetails/62518-W-Catching-Rd-Coos-Bay-OR-97420/75144436_zpid/",
+        "https://www.coldwellbankerhomes.com/or/coos-bay/62518-w-catching-rd/pid_71447066/"
+      ]
+    },
+    {
+      "id": "700-kings-ave",
+      "address": "700 Kings Ave",
+      "place": "Lakeside, OR 97449",
+      "region": "Coos County",
+      "status_label": "HELD · CONSTRUCTION UNVERIFIED",
+      "fit_display": "68 fit",
+      "price": "$449,000",
+      "acreage": "2.17",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/OR/Lakeside/700-Kings-Ave-97449/home/52324461"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.landsearch.com/properties/700-kings-ave-lakeside-or-97449/5564231"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=700%20Kings%20Ave%2C%20Lakeside%2C%20OR%2097449"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "Advertised 2018 home and ADU on 2.17 acres near coast.",
+      "due": "Confirm site-built construction and ADU permits; STEP sewer, flood and insurance.",
+      "facts": "3 bd · 2 ba · 1,764 sq ft",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "9471-e-alsea-hwy",
+      "address": "9471 E Alsea Hwy",
+      "place": "Tidewater, OR 97390",
+      "region": "Oregon Coast · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "68 fit",
+      "price": "$479,000",
+      "acreage": "20.28",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/9471-E-Alsea-Hwy-Tidewater-OR-97390/304993416_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=9471+E+Alsea+Hwy%2C+Tidewater%2C+OR+97390"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. 20.28-acre site-built house by the Alsea River; confirm riparian/flood risks, access, utilities, water and emergency-care travel. Oct 10: sampled area/status search corroborated continued active listing; not an exhaustive audit.",
+      "why": "Site-built 2012 home on 20.28 private acres near the Alsea River and a spring; connected utilities reported.",
+      "due": "Confirm road maintenance, water-source details, insurance and slope/landslide exposure.",
+      "facts": "$479,000 · PRICE · 20.28 · ACRES · 2 · BEDS · 2 · BATHS · 1,560 · SQ FT",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "2162-painted-pony-rd",
+      "address": "2162 Painted Pony Rd",
+      "place": "Somerset, CA 95684",
+      "region": "El Dorado County · On-grid + solar / well",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "67 fit",
+      "price": "$499,000",
+      "acreage": "10",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/2162-Painted-Pony-Rd-Somerset-CA-95684/18588058_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=2162+Painted+Pony+Rd%2C+Somerset%2C+CA+95684"
+        }
+      ],
+      "source_note": "Oct 4 Zillow Active at $499,000; 5bd/3ba, 3,355 sq ft, 10 acres. Not a verified separate two-home compound.",
+      "why": "10 acres and a spacious 5-bedroom house with a downstairs in-law suite, owned solar, backup generator and stream make it flexible for larger households. The suite is within the same house, not a verified separate ADU.",
+      "due": "Verify legal permits for downstairs kitchen/in-law space, lender eligibility, solar ownership, generator capacity, well production, septic, year-round road, insurance and true hospital driving time.",
+      "facts": "$499,000 · PRICE · 10 · ACRES · 5 · BEDS · 3 · BATHS · 3,355 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "27917-mineral-school-rd",
+      "address": "27917 Mineral School Rd",
+      "place": "Bella Vista, CA 96008",
+      "region": "Shasta County",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "67 fit",
+      "price": "$149,900",
+      "acreage": "9.03",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/27917-mineral-school-rd-bella-vista-ca-96008/5602066"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.redfin.com/CA/Bella-Vista/27917-Mineral-School-Rd-96008/home/161739320"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=27917%20Mineral%20School%20Rd%2C%20Bella%20Vista%2C%20CA%2096008"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Site-built 1945 fixer with creek and well on 9.03 acres.",
+      "due": "Inspect roof, structure, habitability, well, septic, financing and fire insurance.",
+      "facts": "3 bd · 2 ba · 1,844 sq ft",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "88687-evers-rd",
+      "address": "88687 Evers Rd",
+      "place": "Elmira, OR 97437",
+      "region": "Lane County",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "67 fit",
+      "price": "$399,500",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/88687-Evers-Rd-Elmira-OR-97437/82685464_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.coldwellbanker.com/or/elmira/88687-evers-rd/lid-P00800000HHScwQIwHEjUrsWn8eZgDqUpuv3LpCX"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=88687%20Evers%20Rd%2C%20Elmira%2C%20OR%2097437"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Five flat acres with 1940 fixer, garage and RV shelter.",
+      "due": "Inspect structure, water, septic, roof, electrical, permits and habitability.",
+      "facts": "3 bd · 2 ba · 1,616 sq ft · 1940",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "96333-wildwood-rd",
+      "address": "96333 Wildwood Rd",
+      "place": "Brookings, OR 97415",
+      "region": "Oregon Coast · On-grid + solar",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "67 fit",
+      "price": "$490,000",
+      "acreage": "18",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/96333-Wildwood-Rd-Brookings-OR-97415/111011611_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=96333+Wildwood+Rd%2C+Brookings%2C+OR+97415"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. 18-acre site-built 3-bed/1-bath cottage by Brookings; verify usable acreage, road maintenance, water, septic, flood and wildfire insurance.",
+      "why": "Site-built chalet on 18 wooded acres with owned solar/grid interaction and coastal-redwood privacy.",
+      "due": "Confirm private-road maintenance, well/septic capacity, wildfire coverage and insurability.",
+      "facts": "$490,000 · PRICE · 18 · ACRES · 3 · BEDS · 1 · BATHS · 1,171 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "11851-upper-applegate-rd",
+      "address": "11851 Upper Applegate Rd",
+      "place": "Jacksonville, OR 97530",
+      "region": "Jackson County",
+      "status_label": "ACTIVE · OCT 8 CROSS-CHECKED",
+      "fit_display": "66 fit",
+      "price": "$399,000",
+      "acreage": "3.31",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/11851-upper-applegate-rd-jacksonville-or-97530/5592043"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.coldwellbankerhomes.com/or/jacksonville/11851-upper-applegate-rd/pid_74006439/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=11851%20Upper%20Applegate%20Rd%2C%20Jacksonville%2C%20OR%2097530"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "1970 frame-built home on 3.31 acres with well, septic and shop.",
+      "due": "Verify well/septic, fire insurance, road, slope and upgrades.",
+      "facts": "2 bd · 2 ba · 1,310 sq ft",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "37969-road-422",
+      "address": "37969 Road 422",
+      "place": "Oakhurst, CA 93644",
+      "region": "Madera County",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "66 fit",
+      "price": "$339,900",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/37969-Road-422-Oakhurst-CA-93644/19148836_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.compass.com/homedetails/37969-Road-422-Oakhurst-CA-93644/7JWWX_pid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=37969%20Road%20422%2C%20Oakhurst%2C%20CA%2093644"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Unusual furnished 1935 cottage on five rolling acres with outdoor soaking tubs and creative space.",
+      "due": "Confirm water/septic, bedroom count, fire insurance, electrical work and usable acreage.",
+      "facts": "2 advertised bd · 1 ba · 908 sq ft · 1935",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "4285-sierra-springs-dr",
+      "address": "4285 Sierra Springs Dr",
+      "place": "Pollock Pines, CA 95726",
+      "region": "El Dorado County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "66 fit",
+      "price": "$399,000",
+      "acreage": "2",
+      "links": [
+        {
+          "label": "Open Zillow listing ↗",
+          "url": "https://www.zillow.com/homedetails/4285-Sierra-Springs-Dr-Pollock-Pines-CA-95726/18599287_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4285%20Sierra%20Springs%20Dr%2C%20Pollock%20Pines%2C%20CA%2095726"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com: For Sale $399,000, 2 acres, 3 bed/2 bath main house plus separate guest-use space with private entrance and bathroom; HOA about $86/month. Check separate accommodation legal use.",
+      "why": "Site-built chalet on two wooded acres with an additional separately accessed living area and bathroom; this is not confirmed to be a legal second dwelling. Monthly HOA fee about $86.",
+      "due": "Confirm whether extra living area is permitted and qualifies as a dwelling; HOA rules, water/septic, insurance, defensible space and road maintenance.",
+      "facts": "$399,000 · PRICE · 2 · ACRES · 3 · BEDS · 2 · BATHS · 1,166 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "5603-clouds-rest-rd",
+      "address": "5603 Clouds Rest Rd",
+      "place": "Mariposa, CA 95338",
+      "region": "Mariposa County",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "66 fit",
+      "price": "$495,000",
+      "acreage": "2.31",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Mariposa/5603-Clouds-Rst-95338/home/119724724"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.londonproperties.com/property/link/crmls/MP26093140/5603-Clouds-Rest-Rd/Mariposa/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5603%20Clouds%20Rest%20Rd%2C%20Mariposa%2C%20CA%2095338"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Large remodeled 4-bed home with panoramic views and private well.",
+      "due": "Verify HOA, septic, fire insurance, road, well and medical access.",
+      "facts": "4 bd · 2.5 ba · 2,855 sq ft",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "5689-bucks-bar-rd",
+      "address": "5689 Bucks Bar Rd",
+      "place": "Placerville, CA 95667",
+      "region": "El Dorado County · On-grid / well / septic",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "66 fit",
+      "price": "$469,900",
+      "acreage": "2.74",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/5689-Bucks-Bar-Rd-Placerville-CA-95667/18608609_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5689+Bucks+Bar+Rd%2C+Placerville%2C+CA+95667"
+        }
+      ],
+      "source_note": "Oct 4 Zillow lists Active at $469,900, down from $499K in August; basement and garage described as unpermitted.",
+      "why": "Four-bedroom house on 2.74 acres with mature oaks, relatively accessible Placerville location, newer roof/HVAC advertised and whole-house generator.",
+      "due": "MATERIAL PERMIT ISSUE: finished basement and detached garage explicitly listed as unpermitted. Verify county enforcement, whether 1,672 sq ft excludes basement, septic capacity, well output, appraisal/financing, and fire insurance.",
+      "facts": "$469,900 · PRICE · 2.74 · ACRES · 4 · BEDS · 2.5 · BATHS · 1,672 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "62361-olive-barber-rd",
+      "address": "62361 Olive Barber Rd",
+      "place": "Coos Bay, OR 97420",
+      "region": "Coos County · Well / septic · fixer",
+      "status_label": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK",
+      "fit_display": "66 fit",
+      "price": "$347,000",
+      "acreage": "5.58",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/62361-Olive-Barber-Rd-Coos-Bay-OR-97420/111869132_zpid/"
+        },
+        {
+          "label": "Independent listing/status ↗",
+          "url": "https://www.realty.com/homedetails/62361-olive-barber-rd-coos-bay-or-97420"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=62361%20Olive%20Barber%20Rd%2C%20Coos%20Bay%2C%20OR%2097420"
+        }
+      ],
+      "source_note": "Zillow and Realty.com Active $347K; Oct 10 IDX broker update corroborates listing.",
+      "why": "1945 site-built fixer on 5.58 acres with barn/shop and outbuilding.",
+      "due": "Major renovation needed; verify foundation, permits, well, septic, access, insurance and habitability. Score: medical_services 14/20; price 12/15; usable_land 10/15; water 8/15; utilities 7/10; road_fire_insurance 6/10; setting 8/10; condition 1/5",
+      "facts": "$347,000 · PRICE · 5.58 · ACRES · 4 · BEDS · 1 · BATHS · 2,300 · SQ FT",
+      "last_verified": "2026-10-11",
+      "score_components": {
+        "medical_services": 14,
+        "price": 12,
+        "usable_land": 10,
+        "water": 8,
+        "utilities": 7,
+        "road_fire_insurance": 6,
+        "setting": 8,
+        "condition": 1
+      },
+      "status_sources": [
+        "https://www.zillow.com/homedetails/62361-Olive-Barber-Rd-Coos-Bay-OR-97420/111869132_zpid/",
+        "https://www.realty.com/homedetails/62361-olive-barber-rd-coos-bay-or-97420"
+      ]
+    },
+    {
+      "id": "99996-lone-pine-ln",
+      "address": "99996 Lone Pine Ln",
+      "place": "Myrtle Point, OR 97458",
+      "region": "Coos County · Oregon Coast",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "66 fit",
+      "price": "$449,500",
+      "acreage": "5.1",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/99996-Lone-Pine-Ln-Myrtle-Point-OR-97458/220183557_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://pacificrimbrokers.com/or-real-estate/myrtle-point/99996-lone-pine-ln-mls-784080826"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=99996%20Lone%20Pine%20Ln%2C%20Myrtle%20Point%2C%20OR%2097458"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Custom cottage, Cherry Creek and advertised second unit on 5.1 acres.",
+      "due": "Confirm floodplain, well/septic, second unit legal status and insurance.",
+      "facts": "2 bd · 2 ba · 1,544 sq ft · 1940",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "23-elk-creek-rd",
+      "address": "23 Elk Creek Rd",
+      "place": "Raymond, WA 98577",
+      "region": "Coastal Washington · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "65 fit",
+      "price": "$389,000",
+      "acreage": "3.05",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/23-Elk-Creek-Rd_Raymond_WA_98577_M12039-31226"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=23+Elk+Creek+Rd%2C+Raymond%2C+WA+98577"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com exact listing: For Sale $389,000, 3.05 acres, 4 bedrooms/one three-quarter bathroom, 1,512 sq ft; well and septic stated.",
+      "why": "Remodeled site-built home on three acres with level garden ground and mature fruit trees.",
+      "due": "Confirm flood exposure, electric service, well quality, septic records and basement moisture.",
+      "facts": "$389,000 · PRICE · 3.05 · ACRES · 4 · BEDS · 1 · BATHS · 1,512 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "38570-rustic-ln",
+      "address": "38570 Rustic Ln",
+      "place": "Squaw Valley, CA 93675",
+      "region": "Fresno County · On-grid / well",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "65 fit",
+      "price": "$410,000",
+      "acreage": "4.13",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/38570-Rustic-Ln-Squaw-Valley-CA-93675/18645459_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=38570%20Rustic%20Ln%2C%20Squaw%20Valley%2C%20CA%2093675"
+        }
+      ],
+      "source_note": "Oct 4 Zillow and Redfin: For Sale $410,000, 4.13 acres, 3 bed/2 bath, 1,488 sq ft, well pump replaced 2022; confirm wildfire-insurance premium.",
+      "why": "Site-built 1993 single-story home with gated access, a pool and four acres. Listing reports a replacement well pump in 2022 and new AC in 2025.",
+      "due": "Confirm well production and pool condition; check fire insurance and actual emergency department drive. Acreage is somewhat below a rural five-acre preference but clears the two-acre minimum.",
+      "facts": "$410,000 · PRICE · 4.13 · ACRES · 3 · BEDS · 2 · BATHS · 1,488 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "42528-county-road-1",
+      "address": "42528 County Road 1",
+      "place": "Lake City, CA 96115",
+      "region": "Modoc County",
+      "status_label": "ACTIVE · OCT 8 CROSS-CHECKED",
+      "fit_display": "65 fit",
+      "price": "$450,000",
+      "acreage": "5.25",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/42528-county-road-1-lake-city-ca-96115/5182758"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/42528-County-Road-1_Lake-City_CA_96115_M96637-42027"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=42528%20County%20Road%201%2C%20Lake%20City%2C%20CA%2096115"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "Main house plus advertised guest house and geothermal well.",
+      "due": "Confirm guest house permits, wells, septic, hospital distance and insurance.",
+      "facts": "4 bd · 3 ba · 2,310 sq ft",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "5909-evergreen-ln",
+      "address": "5909 Evergreen Ln",
+      "place": "Mariposa, CA 95338",
+      "region": "Mariposa County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "65 fit",
+      "price": "$395,000",
+      "acreage": "2.45",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/5909-Evergreen-Ln-Mariposa-CA-95338/70398646_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5909%20Evergreen%20Ln%2C%20Mariposa%2C%20CA%2095338"
+        }
+      ],
+      "source_note": "Oct 4 review: Zillow advertises For Sale at $395,000, 2.45 acres, 3 bedrooms/2 bathrooms. Check homeowners association/road fees, insurance and utilities.",
+      "why": "Site-built home in Lush Meadows with a wooded setting and practical access to Mariposa; relisted at a lower price in August.",
+      "due": "Confirm any HOA/community restrictions, water source, fire insurance and exact travel time to emergency care. Redfin appears to show an older $429K feed; Zillow shows the newer $395K listing.",
+      "facts": "$395,000 · PRICE · 2.45 · ACRES · 3 · BEDS · 2 · BATHS · 1,629 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "9854-record-range-rd",
+      "address": "9854 Record Range Rd",
+      "place": "Redding, CA 96001",
+      "region": "Shasta County · On-grid",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "65 fit",
+      "price": "$348,800",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/9854-Record-Range-Rd_Redding_CA_96001_M99731-20706"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=9854+Record+Range+Rd%2C+Redding%2C+CA+96001"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com and Zillow: For Sale $348,800, 5 acres, 2024 1-bed/1.5-bath 784 sq ft home; public electricity and water advertised.",
+      "why": "Modern 2024 one-bedroom home on five private acres on Redding's west side with public power/water nearby.",
+      "due": "Confirm residence permit/occupancy, wastewater setup, RV hookups, future buildability and fire insurance.",
+      "facts": "$348,800 · PRICE · 5 · ACRES · 1 · BEDS · 1.5 · BATHS · 784 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "36350-peterson-rd",
+      "address": "36350 Peterson Rd",
+      "place": "Auberry, CA 93602",
+      "region": "Fresno County · On-grid / well",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "64 fit",
+      "price": "$460,000",
+      "acreage": "4.58",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/36350-Peterson-Rd-Auberry-CA-93602/68977579_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=36350%20Peterson%20Rd%2C%20Auberry%2C%20CA%2093602"
+        }
+      ],
+      "source_note": "Oct 4 review: Zillow advertises For Sale at $460,000 following October 1 price cut, 4.58 acres, 3 bedrooms/3 bathrooms. Private well, septic, electricity and propane reported. Verify well yield, fire insurance and service drive times.",
+      "why": "Site-built 2006 single-story house with private well, shop, usable acreage and foothill views; Zillow displays an October 1 price reduction.",
+      "due": "Redfin retained the former $499K price, so confirm current asking price with listing agent. Verify well and shared driveway obligations, fire insurance and medical drive.",
+      "facts": "$460,000 · PRICE · 4.58 · ACRES · 3 · BEDS · 3 · BATHS · 1,696 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "4965-moss-creek-ln",
+      "address": "4965 Moss Creek Ln",
+      "place": "Mariposa, CA 95338",
+      "region": "Mariposa County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "64 fit",
+      "price": "$499,000",
+      "acreage": "9.26",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/4965-Moss-Creek-Ln-Mariposa-CA-95338/70398891_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4965+Moss+Creek+Ln%2C+Mariposa%2C+CA+95338"
+        },
+        {
+          "label": "LandSearch verification ↗",
+          "url": "https://www.landsearch.com/properties/4965-moss-creek-ln-mariposa-ca-95338/5471002"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. October 4 check: Zillow advertises for sale at $499,000 after September 3 price reduction.",
+      "why": "Site-built house with around 9.26 acres described as usable and a 2,400 sq ft workshop. Valuable workspace and acreage just under the home-price ceiling.",
+      "due": "Zillow and LandSearch display $499K; Realtor has an outdated $540K page. Verify price, water, septic, utility service, fire insurance and medical drive time before travel.",
+      "facts": "$499,000 · PRICE · 9.26 · ACRES · 3 · BEDS · 2 · BATHS · 1,650 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "7056-madrone-ln",
+      "address": "7056 Madrone Ln",
+      "place": "Browns Valley, CA 95918",
+      "region": "Yuba County · On-grid",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "64 fit",
+      "price": "$499,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/7056-Madrone-Ln-Browns-Valley-CA-95918/16558289_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=7056+Madrone+Ln%2C+Browns+Valley%2C+CA+95918"
+        }
+      ],
+      "source_note": "Oct 4 Zillow/Realtor.com: For Sale $499,000, well, septic, solar; confirm whether solar equipment is owned or leased and wildfire insurance quote.",
+      "why": "Five-acre site-built home with solar in a more serviceable foothill location.",
+      "due": "Confirm well/septic, solar ownership, fire insurance, road condition and defensible space.",
+      "facts": "$499,000 · PRICE · 5 · ACRES · 3 · BEDS · 2.5 · BATHS · 1,692 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "15305-lake-arthur-rd",
+      "address": "15305 Lake Arthur Rd",
+      "place": "Auburn, CA 95602",
+      "region": "Placer County · Utilities to confirm",
+      "status_label": "FOR SALE · OCT 4 VERIFIED",
+      "fit_display": "63 fit",
+      "price": "$439,000",
+      "acreage": "4.8",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Auburn/15305-Lake-Arthur-Rd-95602/home/19544186"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=15305%20Lake%20Arthur%20Rd%2C%20Auburn%2C%20CA%2095602"
+        }
+      ],
+      "source_note": "Oct 4 Redfin exact listing: For Sale $439,000, 4.8 acres, site-built 560 sq ft 1-bed/1-bath cottage. Appointment-only showings; do not visit without an appointment.",
+      "why": "Small site-built cottage with a barn, carport, fruit trees and nearly five acres; Auburn medical/service access is a strong advantage.",
+      "due": "Only 560 recorded sq ft and 1 bedroom. Ask about enclosed patio permits, septic and well records, outbuilding repairs, insurance and appointment-only showing instructions.",
+      "facts": "$439,000 · PRICE · 4.8 · ACRES · 1 · BEDS · 1 · BATHS · 560 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "820-bear-creek-cyn",
+      "address": "820 Bear Creek Cyn",
+      "place": "Boulder Creek, CA 95006",
+      "region": "Santa Cruz County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "63 fit",
+      "price": "$499,000",
+      "acreage": "58.46",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/820-Bear-Creek-Cyn_Boulder-Creek_CA_95006_M19283-70205"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=820+Bear+Creek+Cyn%2C+Boulder+Creek%2C+CA+95006"
+        }
+      ],
+      "source_note": "Oct 4 Redfin/Zillow: For Sale $499,000, 58.46 acres, 3-bed/2-bath 1,610 sq ft house advertised as fixer; mile-long private road and very high renovation/insurance exposure.",
+      "why": "A large-acreage Santa Cruz County fixer with a site-built 1982 house, year-round creek and existing septic.",
+      "due": "No utilities are represented as connected. Verify power options, water source, legal access, septic condition, road stability, fire insurance and permits.",
+      "facts": "$499,000 · PRICE · 58.46 · ACRES · 3 · BEDS · 2 · BATHS · 1,610 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "9684-yuba-ranch-way",
+      "address": "9684 Yuba Ranch Way",
+      "place": "Oregon House, CA 95962",
+      "region": "Yuba County",
+      "status_label": "ACTIVE · OCT 8 CROSS-CHECKED",
+      "fit_display": "63 fit",
+      "price": "$497,000",
+      "acreage": "5.06",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/9684-yuba-ranch-way-oregon-house-ca-95962/5603849"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.coldwellbankerhomes.com/ca/oregon-house/9684-yuba-ranch-way/pid_74030175/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=9684%20Yuba%20Ranch%20Way%2C%20Oregon%20House%2C%20CA%2095962"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "1997 Mediterranean-style site-built home with fenced acreage and barn.",
+      "due": "Confirm well, septic, barn permits, condition, fire insurance and hospital access.",
+      "facts": "3 bd · 3 ba · 1,688 sq ft",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "1082-taylor-cutoff-rd",
+      "address": "1082 Taylor Cutoff Rd",
+      "place": "Sequim, WA 98382",
+      "region": "Olympic Peninsula · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "62 fit",
+      "price": "$299,950",
+      "acreage": "1",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/1082-Taylor-Cutoff-Rd_Sequim_WA_98382_M29949-60027"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1082+Taylor+Cutoff+Rd%2C+Sequim%2C+WA+98382"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. One-acre site-built house near Sequim at a relatively accessible price; check repairs, well/septic, access and actual medical distances. Oct 10: sampled area/status search corroborated continued active listing; not an exhaustive audit.",
+      "why": "A one-acre Sequim-area site-built home below $300K, useful as a service-access benchmark in a difficult market.",
+      "due": "Verify water/septic, road noise, condition, insurance and any accessory structures.",
+      "facts": "$299,950 · PRICE · 1 · ACRES · 2 · BEDS · 1 · BATHS · 1,114 · SQ FT",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "3781-dick-george-rd",
+      "address": "3781 Dick George Rd",
+      "place": "Cave Junction, OR 97523",
+      "region": "Southern Oregon · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "62 fit",
+      "price": "$360,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/3781-Dick-George-Rd-Cave-Junction-OR-97523/213093615_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=3781+Dick+George+Rd%2C+Cave+Junction%2C+OR+97523"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. 3-bed/2-bath site-built home on five acres near Cave Junction; confirm water, septic, outbuildings, insurance and realistic hospital access.",
+      "why": "Site-built ranch on five flat usable acres with well, septic, garage and detached studio/workshop.",
+      "due": "Confirm electric service, studio permits, fire insurance and private-road obligations.",
+      "facts": "$360,000 · PRICE · 5 · ACRES · 3 · BEDS · 2 · BATHS · 1,344 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "4001-old-briceland-rd",
+      "address": "4001 Old Briceland Rd",
+      "place": "Garberville, CA 95542",
+      "region": "Humboldt County · Off-grid",
+      "status_label": "HELD · STATUS CONFLICT",
+      "fit_display": "62 fit",
+      "price": "$349,000",
+      "acreage": "40",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/4001-Old-Briceland-Rd-Garberville-CA-95542/2057014759_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4001%20Old%20Briceland%20Rd%2C%20Garberville%2C%20CA%2095542"
+        }
+      ],
+      "source_note": "October 4 check: Zillow identifies property as off market. Other listing status requires confirmation; excluded from active results pending resolution.",
+      "why": "1997 site-built home with creek, spring, gardens and updated solar, batteries, generator and extensive water storage; advertised 15 minutes to Garberville.",
+      "due": "Off-grid systems, substantial slopes, road easements, winter access and much longer drive to a full hospital. Bonus rooms are not confirmed legal residences.",
+      "facts": "$349,000 · PRICE · 40 · ACRES · 2 · BEDS · 1 · BATHS · 1,150 · SQ FT"
+    },
+    {
+      "id": "4858-us-highway-101",
+      "address": "4858 US Highway 101",
+      "place": "Humptulips, WA 98552",
+      "region": "Coastal Washington · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "62 fit",
+      "price": "$450,000",
+      "acreage": "1.6",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/4858-US-Highway-101_Humptulips_WA_98552_M21943-12015"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4858+US+Highway+101%2C+Humptulips%2C+WA+98552"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. Renovated 5-bedroom site-built home on 1.6 acres with new well and roof. Check highway traffic/noise, septic records, flood/insurance and drive to a hospital. Oct 10: sampled area/status search corroborated continued active listing; not an exhaustive audit.",
+      "why": "Site-built renovated 1938 home with new well system, septic, roof and deck on wooded acreage.",
+      "due": "Highway exposure, heavy-rain drainage, well test, septic capacity and insurance.",
+      "facts": "$450,000 · PRICE · 1.6 · ACRES · 5 · BEDS · 3 · BATHS · 1,825 · SQ FT",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "550-caine-rd",
+      "address": "550 Caine Rd",
+      "place": "Alta, CA 95701",
+      "region": "Placer County · On-grid",
+      "status_label": "ACTIVE · OCT 4 VERIFIED",
+      "fit_display": "62 fit",
+      "price": "$329,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/550-Caine-Rd_Alta_CA_95701_M17167-16588"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=550+Caine+Rd%2C+Alta%2C+CA+95701"
+        }
+      ],
+      "source_note": "Oct 4 MLSListings/Zillow: Active $329,000, 5 acres, 600 sq ft 1-bedroom house with exceptional garage/shop space; verify water/condition and living-area permits.",
+      "why": "Small frame-built home on five acres with well, septic and propane, at a relatively low foothill price.",
+      "due": "Check legal occupancy, well/septic condition, snow access, wildfire insurance and expansion/buildability.",
+      "facts": "$329,000 · PRICE · 5 · ACRES · 1 · BEDS · 1 · BATHS · 600 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "30292-whitmore-rd",
+      "address": "30292 Whitmore Rd",
+      "place": "Whitmore, CA 96096",
+      "region": "Shasta County · On-grid / well",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "61 fit",
+      "price": "$420,000",
+      "acreage": "4.46",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/30292-Whitmore-Rd-Whitmore-CA-96096/131632119_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=30292%20Whitmore%20Rd%2C%20Whitmore%2C%20CA%2096096"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Zillow for-sale index + LandSearch; checked Oct 3.",
+      "why": "1992 site-built house on 4.46 mostly level, private acres with a well and easy-to-use floor plan.",
+      "due": "Check well yield, road and travel times to Redding services, wildfire insurance and acreage useability.",
+      "facts": "$420,000 · PRICE · 4.46 · ACRES · 3 · BEDS · 2.5 · BATHS · 1,988 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "3192-clearwater-rd",
+      "address": "3192 Clearwater Rd",
+      "place": "Forks, WA 98331",
+      "region": "Olympic Peninsula · Utilities to confirm",
+      "status_label": "HELD · OCT 10 SECONDARY MANUFACTURED HOME",
+      "fit_display": "61 fit",
+      "price": "$420,000",
+      "acreage": "2.79",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/WA/Forks/3192-Clearwater-Rd-98331/home/75273059"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=3192+Clearwater+Rd%2C+Forks%2C+WA+98331"
+        }
+      ],
+      "source_note": "Oct 4 Redfin exact page: For Sale $420,000 on 2.79 acres. Main 1965 home is described as built on lot, and the parcel ALSO includes a 1970 single-wide with a tenant; do not count the single-wide as a qualifying second dwelling. Oct 10 Redfin and NWMLS broker disclose 1970 single-wide mobile home with tenant in addition to site-built main house; held under no-manufactured requirement.",
+      "why": "Site-built main house with well, septic, PUD power and existing guest/duplex use; however the included older mobile home and very remote location complicate financing and suitability.",
+      "due": "Verify duplex legality, septic, utilities, drainage and the status of an old single-wide on the property. Confirm removal or lawful treatment of the occupied 1970 single-wide, tenant rights, lender willingness and whether the main house is legally configured as two units. Significant emergency-care travel time.",
+      "facts": "$420,000 · PRICE · 2.79 · ACRES · 3 · BEDS · 2 · BATHS · 1,981 · SQ FT",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "4912-s-kidder-loop",
+      "address": "4912 S Kidder Loop",
+      "place": "Etna, CA 96027",
+      "region": "Siskiyou County · On-grid cabin",
+      "status_label": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK",
+      "fit_display": "61 fit",
+      "price": "$230,000",
+      "acreage": "5.56",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/4912-S-Kidder-Loop-Rd-Etna-CA-96027/465321667_zpid/"
+        },
+        {
+          "label": "Independent listing/status ↗",
+          "url": "https://www.compass.com/homedetails/4912-S-Kidder-Loop-Etna-CA-96027/1PMIU5_pid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4912%20S%20Kidder%20Loop%2C%20Etna%2C%20CA%2096027"
+        }
+      ],
+      "source_note": "Compass and Zillow show active listing and Sep 10 price reduction to $230K.",
+      "why": "Site-built 2004 small cabin on wooded acreage, detached garage and garden beds.",
+      "due": "Confirm water, septic, repairs, winter access, wildfire coverage, medical travel time. Score: medical_services 10/20; price 14/15; usable_land 11/15; water 5/15; utilities 6/10; road_fire_insurance 5/10; setting 8/10; condition 2/5",
+      "facts": "$230,000 · PRICE · 5.56 · ACRES · 1 · BEDS · 1 · BATHS · 768 · SQ FT",
+      "last_verified": "2026-10-11",
+      "score_components": {
+        "medical_services": 10,
+        "price": 14,
+        "usable_land": 11,
+        "water": 5,
+        "utilities": 6,
+        "road_fire_insurance": 5,
+        "setting": 8,
+        "condition": 2
+      },
+      "status_sources": [
+        "https://www.zillow.com/homedetails/4912-S-Kidder-Loop-Rd-Etna-CA-96027/465321667_zpid/",
+        "https://www.compass.com/homedetails/4912-S-Kidder-Loop-Etna-CA-96027/1PMIU5_pid/"
+      ]
+    },
+    {
+      "id": "761-691-gratten-flat-rd",
+      "address": "761 & 691 Gratten Flat Rd",
+      "place": "Trinity Center, CA 96091",
+      "region": "Trinity County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "61 fit",
+      "price": "$425,000",
+      "acreage": "10.06",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/761-691-Gratten-Flat-Rd-Trinity-Center-CA-96091/462521693_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=761%20%26%20691%20Gratten%20Flat%20Rd%2C%20Trinity%20Center%2C%20CA%2096091"
+        }
+      ],
+      "source_note": "Oct 4: Zillow advertises For Sale at $425,000 (MLS #2113015), 10.06 acres and a year-round creek. Realtor.com has older $499,000 data. Verify cabin permits, winter access and flood/insurance risk.",
+      "why": "Mostly flat ten-acre creekside property with a primary cabin, swimming hole, garden and additional sleeping cabin.",
+      "due": "Remote from hospital care; verify creek floodplain, ownership of both parcels, well/water rights, power, septic and whether sleeping cabin is habitable/permitted. Agent also describes a sleeping cabin. Confirm it is legal/permited before treating as a second dwelling.",
+      "facts": "$425,000 · PRICE · 10.06 · ACRES · 2 · BEDS · 1 · BATHS · 1,675 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "1950-bunim-rd",
+      "address": "1950 Bunim Rd",
+      "place": "Laytonville, CA 95585",
+      "region": "Mendocino County · Off-grid",
+      "status_label": "ACTIVE · OCT 4 ZILLOW CROSS-CHECK",
+      "fit_display": "60 fit",
+      "price": "$279,000",
+      "acreage": "40",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Leggett/1950-Bunim-RD-95585/home/205655429"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1950+Bunim+Rd%2C+Laytonville%2C+CA+95585"
+        }
+      ],
+      "source_note": "Oct 4 Zillow Laytonville/Leggett 95585 results: House for Sale at $279,000, 4 bedrooms/2 bathrooms and 2,619 sq ft. Confirm acreage, off-grid systems and wildfire insurance.",
+      "why": "Forty-acre off-grid single-family residence with a large house footprint and established rural infrastructure.",
+      "due": "Verify power generation/storage, water production, septic, permits, private-road rights, fire insurance and any cannabis history.",
+      "facts": "$279,000 · PRICE · 40 · ACRES · 4 · BEDS · 2 · BATHS · 2,619 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "571-briar-ln",
+      "address": "571 Briar Ln",
+      "place": "Selma, OR 97538",
+      "region": "Josephine County",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "60 fit",
+      "price": "$249,000",
+      "acreage": "5.05",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/571-Briar-Ln-Selma-OR-97538/60784214_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.realty.com/homedetails/571-briar-lane-selma-or-97538"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=571%20Briar%20Ln%2C%20Selma%2C%20OR%2097538"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Large site-built fixer on five acres with well and septic.",
+      "due": "Cash-only / major repairs: verify habitable structure, roof, foundation, well, septic and insurance.",
+      "facts": "5 advertised bd · 2 ba · 3,104 sq ft · 1981",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "33412-linson-rd",
+      "address": "33412 Linson Rd",
+      "place": "Tollhouse, CA 93667",
+      "region": "Fresno County · Utilities to confirm",
+      "status_label": "FOR SALE · OCT 4 VERIFIED",
+      "fit_display": "59 fit",
+      "price": "$385,000",
+      "acreage": "4.6",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Tollhouse/33412-Linson-Rd-93667/home/58279376"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=33412%20Linson%20Rd%2C%20Tollhouse%2C%20CA%2093667"
+        }
+      ],
+      "source_note": "Oct 4 Redfin exact listing: For Sale $385,000, 4 bed/3 bath, 1,794 sq ft; confirm all power, road and insurance details independently.",
+      "why": "Four-bedroom site-built house on wooded acreage bordering Forest Service land; seasonal brook, little waterfall and mountain views.",
+      "due": "Confirm brook is seasonal, water supply, house condition, mountain-road maintenance, insurability and emergency department distance.",
+      "facts": "$385,000 · PRICE · 4.6 · ACRES · 4 · BEDS · 3 · BATHS · 1,794 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "14340-del-rosa-rd",
+      "address": "14340 Del Rosa Rd",
+      "place": "Santa Margarita, CA 93453",
+      "region": "San Luis Obispo County · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "58 fit",
+      "price": "$324,900",
+      "acreage": "2.5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/14340-Del-Rosa-Rd-Santa-Margarita-CA-93453/15451312_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=14340+Del+Rosa+Rd%2C+Santa+Margarita%2C+CA+93453"
+        }
+      ],
+      "source_note": "Oct 4 review: Zillow advertises For Sale, $324,900, 2.5 acres, 3 bedrooms/2 bathrooms. Well, septic and connected electricity reported. Confirm well output and insurance. Oct 10: sampled area/status search corroborated continued active listing; not an exhaustive audit.",
+      "why": "A rare sub-$500K Central Coast-area site-built home on 2.5 fully fenced acres, with privacy but not extreme isolation.",
+      "due": "Verify water source, septic, road/access, insurance and actual drive times to groceries and medical care.",
+      "facts": "$324,900 · PRICE · 2.5 · ACRES · 3 · BEDS · 2 · BATHS · 1,558 · SQ FT",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "19479-woodhill-dr-montgomery-creek-ca-96065",
+      "address": "19479 Woodhill Dr",
+      "place": "Montgomery Creek, CA 96065",
+      "region": "Shasta County · Compound candidate · two-home legality unverified",
+      "status_label": "HELD · OVER $500K / COMPOUND POTENTIAL",
+      "fit_display": "58 fit",
+      "price": "$565,000",
+      "acreage": "70.5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/19479-Woodhill-Dr-Montgomery-Creek-CA-96065/463205369_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=19479+Woodhill+Dr%2C+Montgomery+Creek%2C+CA+96065"
+        }
+      ],
+      "source_note": "Zillow · active check Oct 1, 2026 · Listing-status review Oct 3; detail checks may be older",
+      "why": "70.5 acres, springs and a listing that advertises two homes; it exceeds the ordinary $500K cap but may qualify separately as a multigenerational compound if both dwellings are legal.",
+      "due": "Confirm separate legal and permitted dwellings, year-round reliable water, deeded access, county use permits and insurance. Remote healthcare access is a major potential drawback. Do not count as a verified compound yet. Two-home offering priced $565,000; not an ordinary-home match under $500,000.",
+      "facts": "$565,000 · PRICE · 70.5 · ACRES · 2+ · DWELLINGS · Sep 26 · CHECK"
+    },
+    {
+      "id": "220-county-road-232",
+      "address": "220 County Road 232",
+      "place": "Cedarville, CA 96104",
+      "region": "Modoc County",
+      "status_label": "HELD · OCT 8 STATUS CONFLICT",
+      "fit_display": "58 fit",
+      "price": "$464,000",
+      "acreage": "5.01",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/220-county-road-232-cedarville-ca-96104/4408191"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.zillow.com/homedetails/220-County-Road-232-Cedarville-CA-96104/234676078_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=220%20County%20Road%20232%2C%20Cedarville%2C%20CA%2096104"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "Pond, greenhouse, orchard and insulated shop on five acres.",
+      "due": "Zillow off-market versus LandSearch active; hold until broker verifies.",
+      "facts": "3 bd · 1,850 sq ft claimed",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "371-green-mt-ln",
+      "address": "371 Green Mt Ln",
+      "place": "Brinnon, WA 98320",
+      "region": "Jefferson County · Olympic Peninsula",
+      "status_label": "HELD · OCT 8 STATUS CONFLICT",
+      "fit_display": "58 fit",
+      "price": "$325,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/WA/Brinnon/371-Green-Mountain-Ln-98320/home/75274028"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/371-Green-Mountain-Ln_Brinnon_WA_98320_M20404-34885"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=371%20Green%20Mt%20Ln%2C%20Brinnon%2C%20WA%2098320"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-08.",
+      "why": "Five secluded acres with orchard, pasture and shop.",
+      "due": "Zillow pending versus other sources active; hold until conflict resolved.",
+      "facts": "1 bd · 1 ba · 1,215 sq ft",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "id": "1771-diamond-mountain-rd",
+      "address": "1771 Diamond Mountain Rd",
+      "place": "Greenville, CA 95947",
+      "region": "Plumas County · On-grid / well",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "57 fit",
+      "price": "$299,000",
+      "acreage": "4.36",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/1771-Diamond-Mountain-Rd-Greenville-CA-95947/348526450_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1771%20Diamond%20Mountain%20Rd%2C%20Greenville%2C%20CA%2095947"
+        }
+      ],
+      "source_note": "Oct 4 review: LandSearch checked recently, advertises available at $299,000, 4.36 acres and site-built house. Zillow price history shows July reduction to $299,000. Confirm insurance, well and access.",
+      "why": "1996 stick-built cedar cabin with a well, electricity, paved road and a wooded 4.36-acre parcel.",
+      "due": "Greenville-area wildfire aftermath and insurance are major issues; verify local healthcare, 2026 list price, water and condition.",
+      "facts": "$299,000 · PRICE · 4.36 · ACRES · 2 · BEDS · 2 · BATHS · 1,104 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "520-laguna-crk",
+      "address": "520 Laguna Crk",
+      "place": "Los Gatos, CA 95033",
+      "region": "Santa Cruz County · Off-grid",
+      "status_label": "ACTIVE · OCT 4 PRICE CHECK",
+      "fit_display": "57 fit",
+      "price": "$494,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/520-Laguna-Crk-Los-Gatos-CA-95033/402472382_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=520+Laguna+Crk%2C+Los+Gatos%2C+CA+95033"
+        }
+      ],
+      "source_note": "Oct 4 cross-source difference: Zillow shows $494,000; Realtor/Redfin may still show $499,000. Both below cap. Verify latest price with listing agent and confirm active status before contacting.",
+      "why": "Five acres and a full 2/2 residence under the cap in Santa Cruz County. Private-road setting and off-grid systems make this a serious mountain-property candidate.",
+      "due": "Very long market time. Verify road rights/maintenance, solar/storage, water, septic, permits, wildfire insurance and winter access.",
+      "facts": "$494,000 · PRICE · 5 · ACRES · 2 · BEDS · 2 · BATHS · 2,017 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "565-bear-pen-rd",
+      "address": "565 Bear Pen Rd",
+      "place": "Piercy, CA 95587",
+      "region": "Mendocino County · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "57 fit",
+      "price": "$289,000",
+      "acreage": "38.1",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Piercy/565-Bear-Pen-RD-95587/home/201709812"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=565+Bear+Pen+Rd%2C+Piercy%2C+CA+95587"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Direct page: Redfin · checked/recovered Sep 30, 2026 · Listing-status review Oct 3; detail checks may be older",
+      "why": "Frame-built main house on 38.1 acres with PG&E power, both a spring and a well, plus an updated ADU with shower and toilet.",
+      "due": "Remote location is a serious medical/transport limitation. Obtain actual emergency department driving times, all-weather road and legal access, insured site-built dwelling confirmation, creek/well water rights, septic and fire quotes.",
+      "facts": "$289,000 · PRICE · 38.1 · ACRES · 2 · BEDS · 2 · BATHS · 800 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "6710-jake-rd",
+      "address": "6710 Jake Rd",
+      "place": "Klamath Falls, OR 97601",
+      "region": "Klamath County",
+      "status_label": "HELD · SECOND SOURCE NEEDED",
+      "fit_display": "57 fit",
+      "price": "$449,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/6710-jake-rd-klamath-falls-or-97601/5129315"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.google.com/search?q=6710+Jake+Rd+Klamath+Falls+OR+for+sale"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=6710%20Jake%20Rd%2C%20Klamath%20Falls%2C%20OR%2097601"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "Five-acre property with house advertised; construction unverified.",
+      "due": "Confirm site-built, second active source, water, road, insurance.",
+      "facts": "Five acres · house details unverified",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "94620-elk-river-rd",
+      "address": "94620 Elk River Rd",
+      "place": "Port Orford, OR 97465",
+      "region": "Oregon Coast · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "56 fit",
+      "price": "$320,000",
+      "acreage": "4",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/94620-Elk-River-Rd-Port-Orford-OR-97465/86313908_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=94620+Elk+River+Rd%2C+Port+Orford%2C+OR+97465"
+        }
+      ],
+      "source_note": "Oct 4 direct consumer listing showed home offered for sale. 1935 house on four acres with an orchard and well/septic advertised; significant fixer that may be unsuitable for conventional financing and requires substantial renovation.",
+      "why": "Site-built 1935 fixer with established orchard, mature trees, well and septic.",
+      "due": "Restoration project. Inspect structure, flood exposure, well, septic and insurability. Listing invites buyers to restore or rebuild; obtain specialist inspection and financing eligibility before rating as habitable.",
+      "facts": "$320,000 · PRICE · 4 · ACRES · 3 · BEDS · 2 · BATHS · 1,712 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "121-141-mountain-aire-ln",
+      "address": "121 & 141 Mountain Aire Ln",
+      "place": "Trinity Center, CA 96091",
+      "region": "Trinity County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "55 fit",
+      "price": "$345,000",
+      "acreage": "5.04",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Trinity-Center/121-Mountain-Aire-Rd-96091/home/195453415"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=121+%26+141+Mountain+Aire+Ln%2C+Trinity+Center%2C+CA+96091"
+        }
+      ],
+      "source_note": "Oct 4 Redfin exact listing: For Sale $345,000, 5.04 acres across two separate legal parcels, 2-bed/1-bath site-built house; parcel-specific community water must be verified.",
+      "why": "Site-built creekside home on two legal parcels totaling just over five acres, with creek frontage, community water on the vacant parcel, newer HVAC and generator transfer switch.",
+      "due": "Confirm primary-home water source, septic, power service, parcel configuration, creek/flood exposure, wildfire insurance and road maintenance.",
+      "facts": "$345,000 · PRICE · 5.04 · ACRES · 2 · BEDS · 1 · BATHS · 1,148 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "28946-spring-valley-rd",
+      "address": "28946 Spring Valley Rd",
+      "place": "Tollhouse, CA 93667",
+      "region": "Fresno County",
+      "status_label": "FOR SALE · OCT 4 CROSS-CHECKED · CASH ONLY",
+      "fit_display": "54 fit",
+      "price": "$295,000",
+      "acreage": "5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.landsearch.com/properties/28946-spring-valley-rd-tollhouse-ca-93667/5572611"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.zillow.com/sanger-ca-93667/houses/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=28946%20Spring%20Valley%20Rd%2C%20Tollhouse%2C%20CA%2093667"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-04.",
+      "why": "1979 site-built fixer on five acres; cash-only terms.",
+      "due": "Cash-only warning: verify habitability, permits, roof, septic, water, fire risk.",
+      "facts": "3 bd · 2 ba · 2,432 sq ft",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "740-county-line-creek-rd",
+      "address": "740 County Line Creek Rd",
+      "place": "Mad River, CA 95552",
+      "region": "Humboldt County · On-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "54 fit",
+      "price": "$495,000",
+      "acreage": "20",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/740-County-Line-Creek-Rd-Mad-River-CA-95552/306533169_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=740+County+Line+Creek+Rd%2C+Mad+River%2C+CA+95552"
+        }
+      ],
+      "source_note": "Oct 4 Zillow exact listing: For Sale $495,000, 20 acres and 4-bed/2-bath house. Existing cannabis licenses/infrastructure require compliance due diligence.",
+      "why": "Site-built home with direct Mad River access, creek/well water, public power and 20 acres.",
+      "due": "Property is marketed with previous cannabis infrastructure/permits. Obtain full county/state cannabis compliance history, violations/fees and water rights. Confirm legal residential occupancy and construction, water quality, road access, fire/insurance and real hospital drive times.",
+      "facts": "$495,000 · PRICE · 20 · ACRES · 4 · BEDS · 2 · BATHS · 1,500 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "8916-reading-creek-rd",
+      "address": "8916 Reading Creek Rd",
+      "place": "Douglas City, CA 96024",
+      "region": "Trinity County · status conflict / locked gate",
+      "status_label": "HELD · OCT 11 STATUS CONFLICT",
+      "fit_display": "54 fit",
+      "price": "$389,900",
+      "acreage": "38",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.compass.com/homedetails/8916-Reading-Creek-Rd-Douglas-City-CA-96024/1PFTJU_pid/"
+        },
+        {
+          "label": "Independent listing/status ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/8916-Reading-Creek-Rd_Douglas-City_CA_96024_M17016-83096"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=8916%20Reading%20Creek%20Rd%2C%20Douglas%20City%2C%20CA%2096024"
+        }
+      ],
+      "source_note": "HELD due contradictory exact-property statuses; not an active match.",
+      "why": "38-acre site-built house, two wells, creek and outbuildings, but listing status conflicts.",
+      "due": "Realtor.com exact-property page says OFF MARKET while Compass/other pages say Active. Road two miles past locked gate; legal access must be checked. Score: medical_services 2/20; price 11/15; usable_land 10/15; water 12/15; utilities 6/10; road_fire_insurance 1/10; setting 9/10; condition 3/5",
+      "facts": "$389,900 · PRICE · 38 · ACRES · 3 · BEDS · 2 · BATHS · 1,863 · SQ FT",
+      "last_verified": "2026-10-11",
+      "score_components": {
+        "medical_services": 2,
+        "price": 11,
+        "usable_land": 10,
+        "water": 12,
+        "utilities": 6,
+        "road_fire_insurance": 1,
+        "setting": 9,
+        "condition": 3
+      },
+      "status_sources": [
+        "https://www.compass.com/homedetails/8916-Reading-Creek-Rd-Douglas-City-CA-96024/1PFTJU_pid/",
+        "https://www.realtor.com/realestateandhomes-detail/8916-Reading-Creek-Rd_Douglas-City_CA_96024_M17016-83096"
+      ]
+    },
+    {
+      "id": "113-ladd-rd",
+      "address": "113 Ladd Rd",
+      "place": "Klamath River, CA 96050",
+      "region": "Siskiyou County · Well · wastewater unknown",
+      "status_label": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK",
+      "fit_display": "52 fit",
+      "price": "$245,000",
+      "acreage": "7.2",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/113-Ladd-Rd-Klamath-River-CA-96050/462978418_zpid/"
+        },
+        {
+          "label": "Independent listing/status ↗",
+          "url": "https://www.landsearch.com/properties/113-ladd-klamath-river-ca-96050/5318632"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=113%20Ladd%20Rd%2C%20Klamath%20River%2C%20CA%2096050"
+        }
+      ],
+      "source_note": "LandSearch Active $245K; Zillow listed for sale at $245K and Redfin confirms house construction.",
+      "why": "Site-built 1997 home on 7.2 acres, private well and mountainous setting.",
+      "due": "CRITICAL: wastewater/septic not established; verify lawful occupancy, septic, insurance, road and hospital access. Score: medical_services 4/20; price 14/15; usable_land 13/15; water 7/15; utilities 1/10; road_fire_insurance 3/10; setting 8/10; condition 2/5",
+      "facts": "$245,000 · PRICE · 7.2 · ACRES · 3 · BEDS · 2 · BATHS · 1,560 · SQ FT",
+      "last_verified": "2026-10-11",
+      "score_components": {
+        "medical_services": 4,
+        "price": 14,
+        "usable_land": 13,
+        "water": 7,
+        "utilities": 1,
+        "road_fire_insurance": 3,
+        "setting": 8,
+        "condition": 2
+      },
+      "status_sources": [
+        "https://www.zillow.com/homedetails/113-Ladd-Rd-Klamath-River-CA-96050/462978418_zpid/",
+        "https://www.landsearch.com/properties/113-ladd-klamath-river-ca-96050/5318632"
+      ]
+    },
+    {
+      "id": "27-ridge-rd",
+      "address": "27 Ridge Rd",
+      "place": "Mokelumne Hill, CA 95245",
+      "region": "Calaveras County · Compound candidate · legal occupancy unverified",
+      "status_label": "HELD · COMPOUND / TENANCY VERIFICATION",
+      "fit_display": "52 fit",
+      "price": "$279,500",
+      "acreage": "5.29",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/27-Ridge-Rd-Mokelumne-Hill-CA-95245/461791015_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=27+Ridge+Rd%2C+Mokelumne+Hill%2C+CA+95245"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Zillow + Redfin · active check Oct 1, 2026 · Listing-status review Oct 3; detail checks may be older",
+      "why": "The listing describes four established, currently rented residences on about five acres. Could be an income-producing compound but is not an available single-family residence.",
+      "due": "Verify the legal number of dwellings and parcels, the leases and tenant rights, current rents, deferred maintenance, permitted water/septic per unit, fire insurance, ability to take owner occupancy, and actual recorded acreage.",
+      "facts": "$279,500 · PRICE · 5.29 · ACRES · 5 · BEDS · 1 · BATHS · 2,490 · SQ FT"
+    },
+    {
+      "id": "51000-mattole-rd-honeydew-ca-95545",
+      "address": "51000 Mattole Rd",
+      "place": "Honeydew, CA 95545",
+      "region": "Humboldt County · Off-grid · Two-home candidate",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "52 fit",
+      "price": "$325,000",
+      "acreage": "80",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/51000-Mattole-Rd-Honeydew-CA-95545/465325833_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=51000+Mattole+Rd%2C+Honeydew%2C+CA+95545"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Zillow + Redfin · active check Oct 1, 2026 · Listing-status review Oct 3; detail checks may be older",
+      "why": "80 acres with two advertised off-grid houses, privacy and natural setting. Significant potential for multigenerational use if both structures are lawful, but isolation is a significant disadvantage.",
+      "due": "Confirm both houses have legal residential permits, separate wastewater/water, occupancy rights and insurance. Obtain actual hospital/ambulance and year-round road drive times; severe distance may rule it out as a primary home.",
+      "facts": "$325,000 · PRICE · 80 · ACRES · 2+ · DWELLINGS · Sep 26 · CHECK",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "0-cedar-ed-rd",
+      "address": "0 Cedar Ed Rd",
+      "place": "Blue Lake, CA 95525",
+      "region": "Humboldt County · Off-grid CA",
+      "status_label": "ACTIVE · OCT 10 TWO-SOURCE CHECK",
+      "fit_display": "51 fit",
+      "price": "$499,000",
+      "acreage": "49.5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/0-Cedar-Ed-Rd-Blue-Lake-CA-95525/2057015205_zpid/"
+        },
+        {
+          "label": "Independent cross-check ↗",
+          "url": "https://www.homes.com/property/0-cedar-ed-rd-blue-lake-ca-unit-272879/cylm5demtck0v/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=0%20Cedar%20Ed%20Rd%2C%20Blue%20Lake%2C%20CA%2095525"
+        }
+      ],
+      "source_note": "Imported from GitHub Househunt inventory and/or October 9–10 area discovery. Source dates vary; most recent independently verified 2026-10-10.",
+      "why": "Custom site-built home with spring water, solar, mountain views, gardens and 49.5 steep acres.",
+      "due": "Critical: verify actual address/parcel map, road easement, water rights, septic, solar, insurance, steep terrain and emergency response.",
+      "facts": "2 bd · 1 ba · 1,728 sq ft · 1998",
+      "last_verified": "2026-10-10"
+    },
+    {
+      "id": "27150-mendocino-pass-rd",
+      "address": "27150 Mendocino Pass Rd",
+      "place": "Covelo, CA 95428",
+      "region": "Mendocino County · Utilities to confirm",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "51 fit",
+      "price": "$264,900",
+      "acreage": "23.5",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/27150-Mendocino-Pass-Rd_Covelo_CA_95428_M90569-17848"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=27150+Mendocino+Pass+Rd%2C+Covelo%2C+CA+95428"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com and Redfin: For Sale / foreclosure at $264,900, 23.5 acres, 2 bed/2 bath and 1,920 sq ft. Confirm lender sale terms, property condition, systems and title.",
+      "why": "Foreclosure-priced house on 23.5 acres, giving it unusual upside if the structure and systems check out.",
+      "due": "Foreclosure. Verify legal dwelling status, water, septic, power, permits, road access, condition, prior cannabis use and insurability.",
+      "facts": "$264,900 · PRICE · 23.5 · ACRES · 2 · BEDS · 2 · BATHS · 1,920 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "80-south-valley-rd",
+      "address": "80 South Valley Rd",
+      "place": "Naselle, WA 98638",
+      "region": "Coastal Washington · Utilities to confirm",
+      "status_label": "HELD · NOT CURRENTLY VERIFIED",
+      "fit_display": "50 fit",
+      "price": "$175,000",
+      "acreage": "1.95",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.compass.com/homedetails/80-S-Valley-Rd-Naselle-WA-98638/1T4OCP_pid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=80+South+Valley+Rd%2C+Naselle%2C+WA+98638"
+        }
+      ],
+      "source_note": "Compass/NWMLS · active check Oct 1, 2026",
+      "why": "Site-built 1960 fixer on nearly two acres across from the Naselle River with detached garage/shop potential.",
+      "due": "Inspect structure, utilities, slope, flood risk and mixed-use possibilities.",
+      "facts": "$175,000 · PRICE · 1.95 · ACRES · 2 · BEDS · 1 · BATHS · 1,488 · SQ FT"
+    },
+    {
+      "id": "11551-drewry-rd",
+      "address": "11551 Drewry Rd",
+      "place": "Piercy, CA 95587",
+      "region": "Mendocino County · Off-grid",
+      "status_label": "ACTIVE · OCT 4 LISTING CHECK",
+      "fit_display": "49 fit",
+      "price": "$465,500",
+      "acreage": "160",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/11551-Drewry-Rd-Piercy-CA-95587/2061874735_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=11551+Drewry+Rd%2C+Piercy%2C+CA+95587"
+        }
+      ],
+      "source_note": "Oct 4 exact listing page checked. Direct page: Zillow · checked/recovered Sep 30, 2026 · Listing-status review Oct 3; detail checks may be older",
+      "why": "Huge-acreage homestead with orchard, garden, chicken coop, sunny flats and an existing residence.",
+      "due": "Very large acreage and off-grid structures: confirm legal primary dwelling, second structures if any, insurability, independent potable water, septic permits, year-round road and actual drive times to emergency medical care.",
+      "facts": "$465,500 · PRICE · 160 · ACRES · 2 · BEDS · 2 · BATHS · 1,678 · SQ FT",
+      "last_verified": "2026-10-04"
+    },
+    {
+      "id": "18561-denny-rd",
+      "address": "18561 Denny Rd",
+      "place": "Burnt Ranch, CA 95527",
+      "region": "Trinity County · Off-grid · additional structures unverified",
+      "status_label": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK",
+      "fit_display": "49 fit",
+      "price": "$459,000",
+      "acreage": "5.5",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/18561-Denny-Rd-Burnt-Ranch-CA-95527/306657491_zpid/"
+        },
+        {
+          "label": "Independent listing/status ↗",
+          "url": "https://www.landsearch.com/properties/18561-denny-rd-burnt-ranch-ca-95527/5198015"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=18561%20Denny%20Rd%2C%20Burnt%20Ranch%2C%20CA%2095527"
+        }
+      ],
+      "source_note": "Zillow Active $459K after Sep 19 cut; LandSearch Active but stale $499,930. Additional dwellings not legally verified.",
+      "why": "Historic riverside homestead with three advertised residential buildings, garden and off-grid solar. Count only the primary site-built dwelling as established.",
+      "due": "Very remote; verify legal dwellings, access, water rights, river flooding, solar, septic and emergency services. Score: medical_services 3/20; price 9/15; usable_land 10/15; water 8/15; utilities 4/10; road_fire_insurance 2/10; setting 10/10; condition 3/5",
+      "facts": "$459,000 · PRICE · 5.5 · ACRES · 3 · BEDS · 2 · BATHS · 1,900 · SQ FT",
+      "last_verified": "2026-10-11",
+      "score_components": {
+        "medical_services": 3,
+        "price": 9,
+        "usable_land": 10,
+        "water": 8,
+        "utilities": 4,
+        "road_fire_insurance": 2,
+        "setting": 10,
+        "condition": 3
+      },
+      "status_sources": [
+        "https://www.zillow.com/homedetails/18561-Denny-Rd-Burnt-Ranch-CA-95527/306657491_zpid/",
+        "https://www.landsearch.com/properties/18561-denny-rd-burnt-ranch-ca-95527/5198015"
+      ]
+    },
+    {
+      "id": "473-wishkah-ln",
+      "address": "473 Wishkah Ln",
+      "place": "Center Island, WA 98221",
+      "region": "Washington Islands · On-grid",
+      "status_label": "HELD · NOT CURRENTLY VERIFIED",
+      "fit_display": "49 fit",
+      "price": "$365,000",
+      "acreage": "0.53",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/473-Wishkah-Ln_Anacortes_WA_98221_M13222-36285"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=473+Wishkah+Ln%2C+Center+Island%2C+WA+98221"
+        }
+      ],
+      "source_note": "Direct page: Realtor · checked/recovered Sep 30, 2026",
+      "why": "Site-built log cabin plus separate one-bedroom studio with docks, clubhouse and private airstrip access.",
+      "due": "Confirm community-water occupancy limits and year-round-living rules.",
+      "facts": "$365,000 · PRICE · 0.53 · ACRES · 2 · BEDS · 1.5 · BATHS · 820 · SQ FT"
+    },
+    {
+      "id": "853-robin-hood-loop",
+      "address": "853 Robin Hood Loop",
+      "place": "Forks, WA 98331",
+      "region": "Olympic Peninsula · Utilities to confirm",
+      "status_label": "HELD · BELOW 1-ACRE MINIMUM",
+      "fit_display": "43 fit",
+      "price": "$469,000",
+      "acreage": "0.49",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/853-Robin-Hood-Loop-Forks-WA-98331/115849823_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=853+Robin+Hood+Loop%2C+Forks%2C+WA+98331"
+        }
+      ],
+      "source_note": "Direct page: Zillow · checked/recovered Sep 30, 2026",
+      "why": "Site-built home on a deliberate Forks location exception with garden, greenhouse, detached garage and RV carport.",
+      "due": "0.49-acre lot does not meet the minimum; keep only as a small-lot exception. Confirm septic, insurance and hospital drive times.",
+      "facts": "$469,000 · PRICE · 0.49 · ACRES · 4 · BEDS · 2 · BATHS · 1,674 · SQ FT"
+    },
+    {
+      "id": "20045-jesus-maria-rd",
+      "address": "20045 Jesus Maria Rd",
+      "place": "Mokelumne Hill, CA 95245",
+      "region": "Calaveras County · Utilities to confirm",
+      "status_label": "HELD · NOT CURRENTLY VERIFIED",
+      "fit_display": "42 fit",
+      "price": "$349,900",
+      "acreage": "5.03",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/20045-Jesus-Maria-Rd-Mokelumne-Hill-CA-95245/52441128_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=20045+Jesus+Maria+Rd%2C+Mokelumne+Hill%2C+CA+95245"
+        }
+      ],
+      "source_note": "Zillow + current listing feed · active auction check Oct 1, 2026",
+      "why": "Large five-bedroom, three-bath house on just over five acres. The amount of house and land is notable at this price.",
+      "due": "Auction listing. Confirm auction terms, financing eligibility, occupancy, title, inspections, utilities and any buyer premium before treating the asking price as a normal list price.",
+      "facts": "$349,900 · PRICE · 5.03 · ACRES · 5 · BEDS · 3 · BATHS · 3,000 · SQ FT"
+    },
+    {
+      "id": "296-dungeness-meadows",
+      "address": "296 Dungeness Meadows",
+      "place": "Sequim, WA 98382",
+      "region": "Olympic Peninsula · On-grid",
+      "status_label": "HELD · BELOW 1-ACRE MINIMUM",
+      "fit_display": "42 fit",
+      "price": "$389,000",
+      "acreage": "0.66",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/296-Dungeness-Mdws-Sequim-WA-98382/114632947_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=296+Dungeness+Meadows%2C+Sequim%2C+WA+98382"
+        }
+      ],
+      "source_note": "Zillow · active check Oct 1, 2026",
+      "why": "Site-built home with PUD power, community/well water, septic, greenhouse and large yard.",
+      "due": "Only 0.66 acres, below the expensive-area minimum of one acre. Verify HOA rules, fees, water, flood risk and availability if considering an exception.",
+      "facts": "$389,000 · PRICE · 0.66 · ACRES · 3 · BEDS · 2 · BATHS · 1,779 · SQ FT"
+    },
+    {
+      "id": "8868-mill-creek-rd",
+      "address": "8868 Mill Creek Rd",
+      "place": "Healdsburg, CA 95448",
+      "region": "Sonoma County · Off-grid · sanitation unverified",
+      "status_label": "HELD · COMPOSTING TOILET / SANITATION REVIEW",
+      "fit_display": "42 fit",
+      "price": "$450,000",
+      "acreage": "80",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/8868-Mill-Creek-Rd_Healdsburg_CA_95448_M90804-98207"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=8868+Mill+Creek+Rd%2C+Healdsburg%2C+CA+95448"
+        }
+      ],
+      "source_note": "Oct 4 Realtor.com: advertised For Sale at $450,000, 80 acres. Cabin uses solar, composting toilet, graywater absorption boxes and spring-fed water; no conventional permitted septic is stated.",
+      "why": "Extraordinary Sonoma acreage bordering state park, but sanitation, off-grid infrastructure and healthcare access are major barriers to a dependable full-time residence.",
+      "due": "Verify water, septic, electric, legal access, cabin condition, wildfire exposure and insurability. Request county verification of permitted composting toilet/graywater use as a full-time dwelling, potable spring-water rights and a wildfire/insurance quote. Do not assume conventional septic exists.",
+      "facts": "$450,000 · PRICE · 80 · ACRES · 2 · BEDS · 1 · BATHS · 810 · SQ FT"
+    },
+    {
+      "id": "57-acres-ridge-rd",
+      "address": "57 Acres Ridge Rd",
+      "place": "Mad River, CA 95526",
+      "region": "Humboldt County · Off-grid",
+      "status_label": "HELD · HUNTING CABIN / RESIDENTIAL OCCUPANCY UNVERIFIED",
+      "fit_display": "39 fit",
+      "price": "$189,000",
+      "acreage": "57",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/CA/Mad-River/57-Acres-Ridge-Rd-95526/home/205250911"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=57+Acres+Ridge+Rd%2C+Mad+River%2C+CA+95526"
+        }
+      ],
+      "source_note": "Oct 4 Redfin: advertised For Sale $189,000, 57 acres, 600 sq ft 1-bed/1-bath cabin. Described primarily as a hunters base camp with spring and permitted septic.",
+      "why": "Large acreage, deeded spring rights and permitted septic, but extreme remoteness and full-time occupancy are not confirmed.",
+      "due": "Verify generator/solar capacity, spring rights, road access, fire risk, legal occupancy and winter access. Verify county-permitted year-round residential occupancy rather than recreational/hunting-cabin status and check realistic emergency medical response and all-weather winter access.",
+      "facts": "$189,000 · PRICE · 57 · ACRES · 1 · BEDS · 1 · BATHS · 600 · SQ FT"
+    },
+    {
+      "id": "8245-jumpoff-joe-creek-rd",
+      "address": "8245 Jumpoff Joe Creek Rd",
+      "place": "Grants Pass, OR 97526",
+      "region": "Southern Oregon · Off-grid",
+      "status_label": "HELD · RECREATIONAL CABIN / SYSTEMS",
+      "fit_display": "38 fit",
+      "price": "$199,900",
+      "acreage": "12.43",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/8245-Jumpoff-Joe-Creek-Rd-Grants-Pass-OR-97526/121099836_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=8245+Jumpoff+Joe+Creek+Rd%2C+Grants+Pass%2C+OR+97526"
+        }
+      ],
+      "source_note": "Zillow · active check Oct 1, 2026",
+      "why": "12.43 scenic wooded acres, creek and lower price, but the listing calls it a remote off-grid hunting/recreation cabin with an unfinished addition.",
+      "due": "Verify the new septic installation was final-inspected, the cabin is permitted for full-time residential use, solar/battery capacity, spring water reliability and winter emergency access. Not suitable as a primary-home match without confirmation.",
+      "facts": "$199,900 · PRICE · 12.43 · ACRES · 2 · BEDS · 1 · BATHS · 1,959 · SQ FT"
+    },
+    {
+      "id": "436-marine-ln",
+      "address": "436 Marine Ln",
+      "place": "Stuart Island, WA 98250",
+      "region": "Washington Islands · Off-grid",
+      "status_label": "HELD · NOT CURRENTLY VERIFIED",
+      "fit_display": "35 fit",
+      "price": "$375,000",
+      "acreage": "0.85",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/436-Marine-Ln_Friday-Harbor_WA_98250_M25461-32195"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=436+Marine+Ln%2C+Stuart+Island%2C+WA+98250"
+        }
+      ],
+      "source_note": "Direct page: Realtor · checked/recovered Sep 30, 2026",
+      "why": "Site-built off-grid outer-island cabin with deep privacy and beach/trail access.",
+      "due": "Traditional outhouse. Verify water, sanitation, power, legal occupancy, dock/air access and insurance.",
+      "facts": "$375,000 · PRICE · 0.85 · ACRES · 2 · BEDS · .5 · BATHS · 600 · SQ FT"
+    },
+    {
+      "id": "486-rich-gulch-rd",
+      "address": "486 Rich Gulch Rd",
+      "place": "Mokelumne Hill, CA 95245",
+      "region": "Calaveras County · Utilities to confirm",
+      "status_label": "HELD · HOUSE GUTTED / NOT HABITABLE",
+      "fit_display": "34 fit",
+      "price": "$379,500",
+      "acreage": "20.72",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/486-Rich-Gulch-Rd-Mokelumne-Hill-CA-95245/300736333_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=486+Rich+Gulch+Rd%2C+Mokelumne+Hill%2C+CA+95245"
+        }
+      ],
+      "source_note": "Oct 4 review: Redfin advertises For Sale at $379,500, 20.72 acres, 3 bedrooms/2 bathrooms. Confirm unfinished deck work, permits, insurance and access.",
+      "why": "Large acreage and a potential spring-fed pond, but the house is stripped to the studs. Not a normal move-in home or light fixer.",
+      "due": "MAJOR RED FLAG: Listing says unusable plumbing and much of the interior electrical were removed; check contractor rehab estimates, permits, habitability, lender eligibility, fire insurance, spring source and potable-water rights. Do not budget this as a habitable 3/2.",
+      "facts": "$379,500 · PRICE · 20.72 · ACRES · 3 · BEDS · 2 · BATHS · 2,000 · SQ FT"
+    },
+    {
+      "id": "3501-braden-rd",
+      "address": "3501 Braden Rd",
+      "place": "Camino, CA 95709",
+      "region": "El Dorado County · Utilities / water details to confirm",
+      "status_label": "HELD · POSSIBLE MANUFACTURED HOME",
+      "fit_display": "33 fit",
+      "price": "$449,900",
+      "acreage": "4.12",
+      "links": [
+        {
+          "label": "Open Zillow listing ↗",
+          "url": "https://www.zillow.com/homedetails/3501-Braden-Rd-Camino-CA-95709/18587926_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=3501%20Braden%20Rd%2C%20Camino%2C%20CA%2095709"
+        }
+      ],
+      "source_note": "Zillow For Sale; Redfin For Sale; LandSearch available · Oct 3, 2026",
+      "why": "The rural acreage and price are interesting, but brokerage sources conflict over whether this is a manufactured/mobile dwelling, which is excluded by the search.",
+      "due": "Confirm the original construction and title through El Dorado County assessor/building records and seller disclosures. Some broker descriptions call it a converted mobile/manufactured home. Withhold from active inventory until documented site-built status.",
+      "facts": "$449,900 · PRICE · 4.12 · ACRES · 2 · BEDS · 2 · BATHS · 1,140 · SQ FT"
+    },
+    {
+      "id": "2414-w-highway-101",
+      "address": "2414 W Highway 101",
+      "place": "Port Angeles, WA 98363",
+      "region": "Olympic Peninsula · Utilities to confirm",
+      "status_label": "HELD · PENDING SINCE SEP 23",
+      "fit_display": "32 fit",
+      "price": "$475,000",
+      "acreage": "4.86",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/2414-W-Highway-101_Port-Angeles_WA_98363_M16503-93449"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=2414+W+Highway+101%2C+Port+Angeles%2C+WA+98363"
+        }
+      ],
+      "source_note": "Oct 4 cross-check: Zillow price history records Pending sale on Sep 23, 2026. Realtor.com still displays an older August for-sale page. Excluded from active results until both sources confirm the offer fell through.",
+      "why": "Four-bedroom site-built home and 4.86 acres close to Port Angeles services, but currently pending, so not available for an ordinary offer.",
+      "due": "Check highway noise/access, water/septic, roof/systems, drainage and usable acreage.",
+      "facts": "$475,000 · PRICE · 4.86 · ACRES · 4 · BEDS · 1.5 · BATHS · 1,813 · SQ FT"
+    },
+    {
+      "id": "641-decatur-head-dr",
+      "address": "641 Decatur Head Dr",
+      "place": "Decatur Island, WA 98221",
+      "region": "Washington Islands · Utilities to confirm",
+      "status_label": "HELD · ISLAND ACCESS / DWELLING LEGALITY",
+      "fit_display": "31 fit",
+      "price": "$449,000",
+      "acreage": "2.64",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.redfin.com/WA/Decatur-Island/641-Decatur-Head-Dr-98221/home/16754648"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=641+Decatur+Head+Dr%2C+Decatur+Island%2C+WA+98221"
+        }
+      ],
+      "source_note": "Direct page: Redfin · checked/recovered Sep 30, 2026",
+      "why": "Two structures and acreage may look attractive, but island transport and emergency medical access are substantial constraints; separate dwelling legality is unverified.",
+      "due": "Confirm county permits for both independent residences, ferry/water-taxi/boat access, winter transportation, medical evacuation, fire insurance and septic/water.",
+      "facts": "$449,000 · PRICE · 2.64 · ACRES · 4+ · BEDS · 4 · BATHS · 3,060+ · SQ FT"
+    },
+    {
+      "id": "7965-jump-creek-rd",
+      "address": "7965 Jump Creek Rd",
+      "place": "Grants Pass, OR 97526",
+      "region": "Southern Oregon · Off-grid",
+      "status_label": "HELD · NO INDOOR TOILET / HABITABILITY",
+      "fit_display": "27 fit",
+      "price": "$300,000",
+      "acreage": "12.6",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/7965-Jump-Creek-Rd-Grants-Pass-OR-97526/464977226_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=7965+Jump+Creek+Rd%2C+Grants+Pass%2C+OR+97526"
+        }
+      ],
+      "source_note": "Zillow · active check Oct 1, 2026",
+      "why": "Private wooded acreage and an off-grid cabin, but the listing lacks a conventional bathroom and advertises an outhouse.",
+      "due": "Confirm legal year-round dwelling status, permitted septic and indoor toilet installation cost, solar system, drinking water, road access and emergency medical travel times.",
+      "facts": "$300,000 · PRICE · 12.6 · ACRES · 2 · BEDS · 0 · BATHS · 1,731 · SQ FT"
+    },
+    {
+      "id": "2572-s-ten-mile-lk",
+      "address": "2572 S Ten Mile Lk",
+      "place": "Lakeside, OR 97449",
+      "region": "Oregon Coast · Utilities to confirm",
+      "status_label": "HELD · BOAT ACCESS ONLY",
+      "fit_display": "22 fit",
+      "price": "$439,000",
+      "acreage": "2",
+      "links": [
+        {
+          "label": "Open exact listing ↗",
+          "url": "https://www.zillow.com/homedetails/2572-S-Ten-Mile-Lk-Lakeside-OR-97449/2102194333_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=2572+S+Ten+Mile+Lk%2C+Lakeside%2C+OR+97449"
+        }
+      ],
+      "source_note": "Zillow FSBO · active check Oct 1, 2026",
+      "why": "Site-built remodeled lakefront cabin on two private acres.",
+      "due": "Property has no practical vehicle access; emergency medical response, groceries, construction and year-round access make it a poor primary-home choice.",
+      "facts": "$439,000 · PRICE · 2 · ACRES · 3 · BEDS · 2 · BATHS · 1,200 · SQ FT"
+    }
+  ],
+  "new_crosschecked": [
+    {
+      "id": "62518-w-catching-rd",
+      "address": "62518 W Catching Rd",
+      "place": "Coos Bay, OR 97420",
+      "price": "$449,000",
+      "acres": "5",
+      "score": 68,
+      "url": "https://www.zillow.com/homedetails/62518-W-Catching-Rd-Coos-Bay-OR-97420/75144436_zpid/",
+      "independent": "https://www.coldwellbankerhomes.com/or/coos-bay/62518-w-catching-rd/pid_71447066/",
+      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
+    },
+    {
+      "id": "62361-olive-barber-rd",
+      "address": "62361 Olive Barber Rd",
+      "place": "Coos Bay, OR 97420",
+      "price": "$347,000",
+      "acres": "5.58",
+      "score": 66,
+      "url": "https://www.zillow.com/homedetails/62361-Olive-Barber-Rd-Coos-Bay-OR-97420/111869132_zpid/",
+      "independent": "https://www.realty.com/homedetails/62361-olive-barber-rd-coos-bay-or-97420",
+      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
+    },
+    {
+      "id": "4912-s-kidder-loop",
+      "address": "4912 S Kidder Loop",
+      "place": "Etna, CA 96027",
+      "price": "$230,000",
+      "acres": "5.56",
+      "score": 61,
+      "url": "https://www.zillow.com/homedetails/4912-S-Kidder-Loop-Rd-Etna-CA-96027/465321667_zpid/",
+      "independent": "https://www.compass.com/homedetails/4912-S-Kidder-Loop-Etna-CA-96027/1PMIU5_pid/",
+      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
+    },
+    {
+      "id": "18561-denny-rd",
+      "address": "18561 Denny Rd",
+      "place": "Burnt Ranch, CA 95527",
+      "price": "$459,000",
+      "acres": "5.5",
+      "score": 49,
+      "url": "https://www.zillow.com/homedetails/18561-Denny-Rd-Burnt-Ranch-CA-95527/306657491_zpid/",
+      "independent": "https://www.landsearch.com/properties/18561-denny-rd-burnt-ranch-ca-95527/5198015",
+      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
+    },
+    {
+      "id": "113-ladd-rd",
+      "address": "113 Ladd Rd",
+      "place": "Klamath River, CA 96050",
+      "price": "$245,000",
+      "acres": "7.2",
+      "score": 52,
+      "url": "https://www.zillow.com/homedetails/113-Ladd-Rd-Klamath-River-CA-96050/462978418_zpid/",
+      "independent": "https://www.landsearch.com/properties/113-ladd-klamath-river-ca-96050/5318632",
+      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
+    }
+  ],
+  "withheld": [
+    {
+      "address": "15711 Birch St, Long Beach WA",
+      "reason": "Redfin and Coldwell Banker show SOLD Sep 16, 2026; older Realtor/Zillow/Realty pages still say Active."
+    },
+    {
+      "address": "10015 Eliza Gulch Rd, Yreka CA",
+      "reason": "Compass records SOLD Oct 2, 2026; Zillow and LandSearch show Pending; stale Redfin page still markets home."
+    },
+    {
+      "address": "29104 Johnson Rd, Montgomery Creek CA",
+      "reason": "Homes.com reports SOLD Sep 24, 2026; older brokerage pages still say Active."
+    },
+    {
+      "address": "8980 Reading Creek Rd, Douglas City CA",
+      "reason": "New listing appears Active on some sources but other listing records expired/off-market; requires current independent verification."
+    }
+  ],
+  "coverage_ledger": {
+    "period": "2026-10-05 through 2026-10-11",
+    "today_fully_audited_counties": [],
+    "today_partial_areas": [
+      "Trinity CA",
+      "Siskiyou CA",
+      "Shasta CA",
+      "Mendocino CA",
+      "Coos OR",
+      "Douglas OR",
+      "Josephine OR",
+      "Lane OR",
+      "Curry OR",
+      "Pacific WA",
+      "Clallam WA",
+      "Jefferson WA",
+      "San Juan WA"
+    ],
+    "seven_day_full_coverage": "NOT VERIFIED; prior daily logs are partial and do not establish exhaustive seven-day coverage"
+  },
+  "discovery_log_path": "/Property Finder/Househunt_Discovery_2026-10-11.json",
+  "source": "GitHub index.html readback after commit c37a3e9b851f51efddbcc8560bdb38ba8315fa37"
+}
