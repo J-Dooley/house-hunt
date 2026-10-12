@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-10-11",
+  "as_of": "2026-10-12",
   "status_rules": "Active excludes pending, contingent, accepting backups, sold, off-market and conflicting status. Held retained.",
-  "coverage_note": "Partial searches only; 48 California counties and OR/WA not exhaustively checked.",
+  "coverage_note": "Partial independent area/category discovery and sampled status audit only; full seven-day CA/OR/WA coverage not verified.",
   "properties": [
     {
       "id": "2505-windy-creek-rd",
@@ -375,6 +375,45 @@
       "due": "Confirm status after prior contract, water, septic, HOA, insurance and access.",
       "facts": "3 bd · 3 ba · 2,250 sq ft",
       "last_verified": "2026-10-04"
+    },
+    {
+      "id": "5636-e-whitlock-rd",
+      "address": "5636 E Whitlock Rd",
+      "place": "Mariposa, CA 95338",
+      "region": "California · Mariposa County",
+      "status_label": "ACTIVE · OCT 12 TWO-SOURCE CHECK",
+      "fit_display": "72 fit",
+      "price": "$425,000",
+      "acreage": "7.43",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/5636-E-Whitlock-Rd-Mariposa-CA-95338/19233308_zpid/"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.redfin.com/CA/Mariposa/5636-E-Whitlock-Rd-95338/home/119718346"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5636+E+Whitlock+Rd%2C+Mariposa%2C+CA+95338"
+        }
+      ],
+      "source_note": "CRMLS #MP26093191: LandSearch, Zillow and Redfin show for sale at $425,000. Site-built 1980 3-bed/2-bath, 1,645 sq ft on 7.43 acres; perimeter fencing and livestock cross-fencing, barn on slab, sunroom, finished attached garage, private well and drip irrigation. All-season Highway 140 access claimed; hospital distance and fire insurance not independently verified.",
+      "why": "Usable fenced land with established landscaping, sunroom and an unusually appealing vintage ranch layout.",
+      "due": "Inspect well flow/quality and rights, septic, fencing, barn permits, defensible space, road easements and fire-insurance quote.",
+      "facts": "$425,000 · PRICE · 7.43 · ACRES · 3 BEDS · 2 BATHS · 1,645 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 15,
+        "price": 11,
+        "usable_land": 12,
+        "water": 9,
+        "utilities": 8,
+        "road_fire_insurance": 5,
+        "setting": 8,
+        "condition": 4
+      }
     },
     {
       "id": "10473-blue-mountain-ranch-rd",
@@ -1367,6 +1406,45 @@
       "last_verified": "2026-10-04"
     },
     {
+      "id": "871-van-duzen-rd",
+      "address": "871 Van Duzen Rd",
+      "place": "Mad River, CA 95526",
+      "region": "California · Trinity County · Off-grid",
+      "status_label": "ACTIVE · OCT 12 TWO-SOURCE CHECK",
+      "fit_display": "65 fit",
+      "price": "$340,000",
+      "acreage": "52.22",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/871-Van-Duzen-Rd-Mad-River-CA-95526/334062524_zpid/"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.redfin.com/CA/Mad-River/871-Van-Duzen-Rd-95526/home/124468294"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=871+Van+Duzen+Rd%2C+Mad+River%2C+CA+95526"
+        }
+      ],
+      "source_note": "HAR #269902: Redfin, Zillow, Compass and LandSearch show for sale $340,000. 2016 custom site-built 2-bed home 1,378 sq ft on 52.22 acres; solar with new batteries, well, backup generator, septic, solarium and metal roof. Listing data conflict on baths (1.5 vs 6), so do not rely on bath count. Much of land slopes steeply; nearby clinic is not a hospital.",
+      "why": "Large private acreage, off-grid resilience, solar and productive well; strong artistic retreat potential.",
+      "due": "Confirm legal water source and yield, solar battery age, generator, septic permit, accurate bath count, actual usable acreage, emergency access and insurability.",
+      "facts": "$340,000 · PRICE · 52.22 · ACRES · 2 BEDS · BATH COUNT CONFLICT · 1,378 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 8,
+        "price": 13,
+        "usable_land": 8,
+        "water": 12,
+        "utilities": 7,
+        "road_fire_insurance": 4,
+        "setting": 9,
+        "condition": 4
+      }
+    },
+    {
       "id": "36350-peterson-rd",
       "address": "36350 Peterson Rd",
       "place": "Auberry, CA 93602",
@@ -1444,6 +1522,45 @@
       "due": "Confirm well/septic, solar ownership, fire insurance, road condition and defensible space.",
       "facts": "$499,000 · PRICE · 5 · ACRES · 3 · BEDS · 2.5 · BATHS · 1,692 · SQ FT",
       "last_verified": "2026-10-04"
+    },
+    {
+      "id": "94921-lindgren-ln",
+      "address": "94921 Lindgren Ln",
+      "place": "North Bend, OR 97459",
+      "region": "Oregon Coast · Coos County",
+      "status_label": "ACTIVE · OCT 12 TWO-SOURCE CHECK",
+      "fit_display": "64 fit",
+      "price": "$449,500",
+      "acreage": "12.05",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.redfin.com/OR/North-Bend/94921-Lindgren-Ln-97459/home/206180593"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.coldwellbankerhomes.com/or/north-bend/94921-lindgren-ln/pid_74200168/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=94921+Lindgren+Ln%2C+North+Bend%2C+OR+97459"
+        }
+      ],
+      "source_note": "New Oct 9, 2026 RMLS #435141099. LandSearch and Redfin plus Oct 11 Coldwell Banker IDX show active. 1964 site-built 3-bed/1.5-bath home, 1,474 sq ft; 12 acres of mostly mature timber, wooded trails, private gravel road. Spring water and septic per MLS; no well test or water rights confirmed. Heavily wooded means much acreage may not be usable pasture.",
+      "why": "Unusual secluded wooded 12-acre setting close to North Bend/Coos Bay; house offers renovation potential.",
+      "due": "Verify spring yield, water quality and legal rights; inspect private-road maintenance, timber value, drainage, septic, insurance, foundation and dated interior.",
+      "facts": "$449,500 · PRICE · 12.05 · ACRES · 3 BEDS · 1.5 BATHS · 1,474 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 15,
+        "price": 12,
+        "usable_land": 5,
+        "water": 8,
+        "utilities": 7,
+        "road_fire_insurance": 5,
+        "setting": 10,
+        "condition": 2
+      }
     },
     {
       "id": "15305-lake-arthur-rd",
@@ -1821,6 +1938,84 @@
       "last_verified": "2026-10-10"
     },
     {
+      "id": "441-creekside-ln",
+      "address": "441 Creekside Ln",
+      "place": "Hyampom, CA 96046",
+      "region": "California · Trinity County",
+      "status_label": "HELD · OCT 12 CONTINGENT STATUS CONFLICT",
+      "fit_display": "60 fit",
+      "price": "$249,000",
+      "acreage": "12.57",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.realtor.com/realestateandhomes-detail/441-Creekside-Ln_Hyampom_CA_96046_M16293-87167"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.landsearch.com/properties/441-creekside-ln-hyampom-ca-96046/5367057"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=441+Creekside+Ln%2C+Hyampom%2C+CA+96046"
+        }
+      ],
+      "source_note": "Do not display as Active: Realtor.com lists Contingent and LandSearch (Trinity AOR MLS #2113063) says under contract Sept 16, 2026, possibly accepting backups; newer Redfin/Shasta MLS #26-4712 and brokerage pages say active. Retained in Held pending reconciled MLS confirmation. Site-built creekside 1960 3-bed house with orchard, workshop, gated road and reportedly productive well.",
+      "why": "Creekside homestead with orchard, fencing and creative workspaces; cannot be treated as available yet.",
+      "due": "Confirm contract/backup status directly with listing agent; inspect creek flood exposure, well, fire insurance, road easement and property taxes.",
+      "facts": "$249,000 · PRICE · 12.57 · ACRES · 3 BEDS · 1 BATH · 1,400 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 2,
+        "price": 14,
+        "usable_land": 10,
+        "water": 12,
+        "utilities": 6,
+        "road_fire_insurance": 3,
+        "setting": 10,
+        "condition": 3
+      }
+    },
+    {
+      "id": "44720-jack-peters-creek-rd",
+      "address": "44720 Jack Peters Creek Rd",
+      "place": "Mendocino, CA 95460",
+      "region": "California Coast · Mendocino County",
+      "status_label": "HELD · OCT 12 UNDER CONTRACT",
+      "fit_display": "60 fit",
+      "price": "$439,000",
+      "acreage": "1.84",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/44720-Jack-Peters-Creek-Rd-Mendocino-CA-95460/19214379_zpid/"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://brockandlori.com/home-search/listings/1827830842439537137-44720-Jack-Peters-Creek-RD"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=44720+Jack+Peters+Creek+Rd%2C+Mendocino%2C+CA+95460"
+        }
+      ],
+      "source_note": "BAREIS #326045863 and CRMLS #C1-11408: Zillow shows Active Under Contract and records Sept 17 pending/contingent; updated brokerage listing also says Under contract, despite stale Redfin and IDX pages saying Active. Held, not available. Site-built 1979 fixer with 1.84 acres in high-cost coastal area, 2 detached studio structures, well and septic.",
+      "why": "Artsy Mendocino redwood setting with two studio outbuildings; attractive exception on acreage, but unavailable while under contract.",
+      "due": "Wait for confirmed back-on-market status; verify probate title, studio permits, major repair scope, coastal zoning, well, septic and private road.",
+      "facts": "$439,000 · PRICE · 1.84 · ACRES · 3 BEDS · 2 BATHS · 1,644 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 15,
+        "price": 12,
+        "usable_land": 7,
+        "water": 8,
+        "utilities": 7,
+        "road_fire_insurance": 4,
+        "setting": 7,
+        "condition": 0
+      }
+    },
+    {
       "id": "33412-linson-rd",
       "address": "33412 Linson Rd",
       "place": "Tollhouse, CA 93667",
@@ -2082,6 +2277,45 @@
       "last_verified": "2026-10-04"
     },
     {
+      "id": "5021-watt-rd",
+      "address": "5021 Watt Rd",
+      "place": "Mariposa, CA 95338",
+      "region": "California · Mariposa County",
+      "status_label": "HELD · OCT 12 STATUS CONFLICT",
+      "fit_display": "56 fit",
+      "price": "$379,000",
+      "acreage": "4.14",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.landsearch.com/properties/5021-watt-rd-mariposa-ca-95338/5329916"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.redfin.com/CA/Mariposa/5021-Watt-Road-Ext-95338/home/119709423"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=5021+Watt+Rd%2C+Mariposa%2C+CA+95338"
+        }
+      ],
+      "source_note": "FAR #650217: LandSearch says available at $379,000 (Oct 7 price update), while an exact-parcel Redfin assessor page for 5021 Watt Road Extension shows OFF MARKET. Zillow listing $405,000 appears stale vs price reduction. Retained in Held until an independently updated MLS source confirms sale status. Site-built farmhouse, mature fruit trees and 4.14 acres.",
+      "why": "Artsy farmhouse with gardens and fruit trees, but status not independently confirmed.",
+      "due": "Confirm latest MLS status, driveway address equivalence, private water/septic, permits, insurance, structural condition and actual usable acreage.",
+      "facts": "$379,000 · PRICE · 4.14 · ACRES · 3 BEDS · 2 BATHS · 1,100 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 12,
+        "price": 14,
+        "usable_land": 9,
+        "water": 2,
+        "utilities": 4,
+        "road_fire_insurance": 4,
+        "setting": 8,
+        "condition": 3
+      }
+    },
+    {
       "id": "121-141-mountain-aire-ln",
       "address": "121 & 141 Mountain Aire Ln",
       "place": "Trinity Center, CA 96091",
@@ -2296,6 +2530,45 @@
       "last_verified": "2026-10-04"
     },
     {
+      "id": "10381-ruth-zenia-rd",
+      "address": "10381 Ruth-Zenia Rd",
+      "place": "Zenia, CA 95595",
+      "region": "California · Trinity County · Off-grid",
+      "status_label": "ACTIVE · OCT 12 TWO-SOURCE CHECK",
+      "fit_display": "52 fit",
+      "price": "$284,000",
+      "acreage": "51.08",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/10381-Ruth-Zenia-Rd-Zenia-CA-95595/306657864_zpid/"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.coldwellbanker.com/ca/mad-river/10381-ruthzenia-rd/lid-P00800000H54dYygamijApDdzBjBjiQt2HTo2ogj"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=10381+Ruth-Zenia+Rd%2C+Zenia%2C+CA+95595"
+        }
+      ],
+      "source_note": "HAR #271414: Zillow, LandSearch and Coldwell Banker IDX show active at $284,000. Site-built 2007 2-bed/2-bath home 965 sq ft on 51.08 acres, with reportedly extensive flat grazing land. Solar, propane backup generator and utility pole nearby. No reliable potable-water source verified from accessible sources. Zillow lists Zenia; LandSearch uses Mad River; verify parcel location.",
+      "why": "Large valley property with potentially useful grazing acreage, big views and affordable price.",
+      "due": "Establish legal water source, domestic water tests, road/easement access, septic, solar adequacy, land zoning, floodplain and distance to hospital.",
+      "facts": "$284,000 · PRICE · 51.08 · ACRES · 2 BEDS · 2 BATHS · 965 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 2,
+        "price": 14,
+        "usable_land": 14,
+        "water": 3,
+        "utilities": 4,
+        "road_fire_insurance": 2,
+        "setting": 10,
+        "condition": 3
+      }
+    },
+    {
       "id": "0-cedar-ed-rd",
       "address": "0 Cedar Ed Rd",
       "place": "Blue Lake, CA 95525",
@@ -2464,6 +2737,84 @@
       "why": "Site-built log cabin plus separate one-bedroom studio with docks, clubhouse and private airstrip access.",
       "due": "Confirm community-water occupancy limits and year-round-living rules.",
       "facts": "$365,000 · PRICE · 0.53 · ACRES · 2 · BEDS · 1.5 · BATHS · 820 · SQ FT"
+    },
+    {
+      "id": "4000-fs-rd",
+      "address": "4000 Fs Rd",
+      "place": "Hayfork, CA 96041",
+      "region": "California · Trinity County · Remote off-grid",
+      "status_label": "ACTIVE · OCT 12 TWO-SOURCE CHECK",
+      "fit_display": "48 fit",
+      "price": "$485,000",
+      "acreage": "60",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/4000-Fs-Rd-Hayfork-CA-96041/338169994_zpid/"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.landwatch.com/trinity-county-california-homes-for-sale/pid/425442212"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=4000+Fs+Rd%2C+Hayfork%2C+CA+96041"
+        }
+      ],
+      "source_note": "HAR #271369: Zillow shows for sale at $485,000 and LandWatch broker/MLS feed active (checked Oct 10). 1999 site-built 4-bed house 2,100 sq ft, 60 acres bordering national forest, spring water, solar, generator, Pelton-wheel hydro, detached garage and large shop. Advertised guest cabin; legal dwelling status unverified. Very remote and hospital access is a major drawback.",
+      "why": "Remarkable privacy, forest adjacency, orchard and creative workspace with a large shop.",
+      "due": "Confirm all-season FS-road access and easements, wildfire insurance, water rights/quality, hydropower permits, septic, guest-cabin legality and emergency response times.",
+      "facts": "$485,000 · PRICE · 60 · ACRES · 4 BEDS · 2+ BATHS · 2,100 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 2,
+        "price": 10,
+        "usable_land": 8,
+        "water": 9,
+        "utilities": 4,
+        "road_fire_insurance": 1,
+        "setting": 10,
+        "condition": 4
+      }
+    },
+    {
+      "id": "1100-hastings-tie-rd",
+      "address": "1100 Hastings Tie Rd",
+      "place": "Mad River, CA 95552",
+      "region": "California · Trinity County",
+      "status_label": "HELD · OCT 12 DWELLING TYPE CONFLICT",
+      "fit_display": "48 fit",
+      "price": "$395,000",
+      "acreage": "40",
+      "links": [
+        {
+          "label": "Open exact listing gallery ↗",
+          "url": "https://www.zillow.com/homedetails/1100-Hastings-Tie-Rd-Mad-River-CA-95552/309253990_zpid/"
+        },
+        {
+          "label": "Independent property source ↗",
+          "url": "https://www.zillow.com/homedetails/1100-Hastings-Tie-Rd-Mad-River-CA-95552/16212136_zpid/"
+        },
+        {
+          "label": "Google Maps ↗",
+          "url": "https://www.google.com/maps/search/?api=1&query=1100+Hastings+Tie+Rd%2C+Mad+River%2C+CA+95552"
+        }
+      ],
+      "source_note": "HAR #272589: newer Zillow listing and Redfin/IDX show 3-bed 2003 Single Family Residence, active at $395,000 on 40 acres. HOWEVER an older exact-address Zillow record describes a manufactured home and marks off market, with inconsistent acreage. Excluded from Active pending APN/building-type verification. Listing explicitly mentions previous cannabis permitting.",
+      "why": "Renovated-looking home and enormous powered shop on 40 acres, but building classification must be settled.",
+      "due": "Verify APN 018-850-001-000, assessor dwelling type and foundation, cannabis permits/cleanup, septic and power, road, fire risk and water.",
+      "facts": "$395,000 · PRICE · 40 · ACRES · 3 BEDS · 2 BATHS · 1,836 SQ FT",
+      "last_verified": "2026-10-12",
+      "score_breakdown": {
+        "medical_services": 2,
+        "price": 13,
+        "usable_land": 8,
+        "water": 4,
+        "utilities": 7,
+        "road_fire_insurance": 2,
+        "setting": 9,
+        "condition": 3
+      }
     },
     {
       "id": "853-robin-hood-loop",
@@ -2778,81 +3129,8 @@
       "facts": "$439,000 · PRICE · 2 · ACRES · 3 · BEDS · 2 · BATHS · 1,200 · SQ FT"
     }
   ],
-  "new_crosschecked": [
-    {
-      "id": "62518-w-catching-rd",
-      "address": "62518 W Catching Rd",
-      "place": "Coos Bay, OR 97420",
-      "price": "$449,000",
-      "acres": "5",
-      "score": 68,
-      "url": "https://www.zillow.com/homedetails/62518-W-Catching-Rd-Coos-Bay-OR-97420/75144436_zpid/",
-      "independent": "https://www.coldwellbankerhomes.com/or/coos-bay/62518-w-catching-rd/pid_71447066/",
-      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
-    },
-    {
-      "id": "62361-olive-barber-rd",
-      "address": "62361 Olive Barber Rd",
-      "place": "Coos Bay, OR 97420",
-      "price": "$347,000",
-      "acres": "5.58",
-      "score": 66,
-      "url": "https://www.zillow.com/homedetails/62361-Olive-Barber-Rd-Coos-Bay-OR-97420/111869132_zpid/",
-      "independent": "https://www.realty.com/homedetails/62361-olive-barber-rd-coos-bay-or-97420",
-      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
-    },
-    {
-      "id": "4912-s-kidder-loop",
-      "address": "4912 S Kidder Loop",
-      "place": "Etna, CA 96027",
-      "price": "$230,000",
-      "acres": "5.56",
-      "score": 61,
-      "url": "https://www.zillow.com/homedetails/4912-S-Kidder-Loop-Rd-Etna-CA-96027/465321667_zpid/",
-      "independent": "https://www.compass.com/homedetails/4912-S-Kidder-Loop-Etna-CA-96027/1PMIU5_pid/",
-      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
-    },
-    {
-      "id": "18561-denny-rd",
-      "address": "18561 Denny Rd",
-      "place": "Burnt Ranch, CA 95527",
-      "price": "$459,000",
-      "acres": "5.5",
-      "score": 49,
-      "url": "https://www.zillow.com/homedetails/18561-Denny-Rd-Burnt-Ranch-CA-95527/306657491_zpid/",
-      "independent": "https://www.landsearch.com/properties/18561-denny-rd-burnt-ranch-ca-95527/5198015",
-      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
-    },
-    {
-      "id": "113-ladd-rd",
-      "address": "113 Ladd Rd",
-      "place": "Klamath River, CA 96050",
-      "price": "$245,000",
-      "acres": "7.2",
-      "score": 52,
-      "url": "https://www.zillow.com/homedetails/113-Ladd-Rd-Klamath-River-CA-96050/462978418_zpid/",
-      "independent": "https://www.landsearch.com/properties/113-ladd-klamath-river-ca-96050/5318632",
-      "status": "ACTIVE · OCT 11 TWO-SOURCE STATUS CHECK"
-    }
-  ],
-  "withheld": [
-    {
-      "address": "15711 Birch St, Long Beach WA",
-      "reason": "Redfin and Coldwell Banker show SOLD Sep 16, 2026; older Realtor/Zillow/Realty pages still say Active."
-    },
-    {
-      "address": "10015 Eliza Gulch Rd, Yreka CA",
-      "reason": "Compass records SOLD Oct 2, 2026; Zillow and LandSearch show Pending; stale Redfin page still markets home."
-    },
-    {
-      "address": "29104 Johnson Rd, Montgomery Creek CA",
-      "reason": "Homes.com reports SOLD Sep 24, 2026; older brokerage pages still say Active."
-    },
-    {
-      "address": "8980 Reading Creek Rd, Douglas City CA",
-      "reason": "New listing appears Active on some sources but other listing records expired/off-market; requires current independent verification."
-    }
-  ],
+  "new_crosschecked": 5,
+  "withheld": 4,
   "coverage_ledger": {
     "period": "2026-10-05 through 2026-10-11",
     "today_fully_audited_counties": [],
